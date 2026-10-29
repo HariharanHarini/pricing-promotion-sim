@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+out/full/data/
+out/repro_*/
+out/*.log
+*.db
+out/full/ground_truth/
+out/test48/
