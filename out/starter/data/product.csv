@@ -1,0 +1,301 @@
+sku,product_name,category,brand,launch_date,lifecycle_state,min_margin_pct,initial_list_price,price_ceiling,lead_time_days
+SKU-000001,Basalt T-Shirt 298,Apparel,Basalt,2024-01-26,ACTIVE,0.15,12.99,19.48,5
+SKU-000002,Solstice Lip Balm 685,Beauty,Solstice,2024-05-17,ACTIVE,0.19,12.99,19.48,5
+SKU-000003,Kestrel Pruner 844,Garden,Kestrel,2024-06-19,ACTIVE,0.13,21.99,32.98,7
+SKU-000004,Zephyr Band Set 561,Sports,Zephyr,2025-10-22,ACTIVE,0.18,39.99,59.98,10
+SKU-000005,Tamarind Treat Pack 717,Pet,Tamarind,2024-10-13,ACTIVE,0.14,9.99,14.98,7
+SKU-000006,Meridian Dumbbell Pair 363,Sports,Meridian,2024-06-07,ACTIVE,0.15,23.99,35.98,7
+SKU-000007,Basalt Pen Set 752,Office,Basalt,2024-04-03,ACTIVE,0.18,10.99,16.48,7
+SKU-000008,Aurora Hose Nozzle 208,Garden,Aurora,2023-02-27,ACTIVE,0.2,30.99,46.48,10
+SKU-000009,Meridian Face Wash 372,Beauty,Meridian,2023-01-29,ACTIVE,0.16,8.99,13.48,10
+SKU-000010,Lumen Cap 431,Apparel,Lumen,2025-10-12,ACTIVE,0.21,18.99,28.48,10
+SKU-000011,Aurora Mixer 853,Home & Kitchen,Aurora,2025-05-09,ACTIVE,0.17,21.99,32.98,7
+SKU-000012,Verdant Leash 630,Pet,Verdant,2024-11-12,ACTIVE,0.16,15.99,23.98,14
+SKU-000013,Meridian Pruner 125,Garden,Meridian,2025-05-25,ACTIVE,0.17,14.99,22.48,10
+SKU-000014,Lumen Coffee Beans 432,Grocery,Lumen,2023-10-05,ACTIVE,0.11,5.99,8.98,10
+SKU-000015,Basalt Lamp 845,Home & Kitchen,Basalt,2025-05-20,ACTIVE,0.12,25.99,38.98,10
+SKU-000016,Basalt Puzzle 387,Toys,Basalt,2023-04-08,ACTIVE,0.14,7.99,11.98,7
+SKU-000017,Meridian Organizer 756,Home & Kitchen,Meridian,2023-06-30,ACTIVE,0.15,9.99,14.98,5
+SKU-000018,Meridian Headset 815,Electronics,Meridian,2023-09-02,ACTIVE,0.15,52.99,79.48,7
+SKU-000019,Verdant Organizer 112,Home & Kitchen,Verdant,2023-01-24,ACTIVE,0.18,18.99,28.48,5
+SKU-000020,Cobalt Dog Chew 214,Pet,Cobalt,2024-10-11,ACTIVE,0.17,14.99,22.48,7
+SKU-000021,Verdant Shampoo 718,Beauty,Verdant,2025-05-03,ACTIVE,0.21,9.99,14.98,14
+SKU-000022,Verdant Pan Set 942,Home & Kitchen,Verdant,2024-04-25,ACTIVE,0.2,19.99,29.98,10
+SKU-000023,Zephyr Watering Can 388,Garden,Zephyr,2024-01-14,DISCONTINUED,0.19,10.99,16.48,10
+SKU-000024,Cobalt Hose Nozzle 837,Garden,Cobalt,2024-08-09,ACTIVE,0.19,8.99,13.48,14
+SKU-000025,Nimbus Dumbbell Pair 255,Sports,Nimbus,2025-09-15,ACTIVE,0.19,33.99,50.98,5
+SKU-000026,Cobalt Pruner 487,Garden,Cobalt,2024-08-25,ACTIVE,0.15,10.99,16.48,10
+SKU-000027,Solstice Dumbbell Pair 325,Sports,Solstice,2025-11-21,ACTIVE,0.14,20.99,31.48,7
+SKU-000028,Zephyr Hose Nozzle 254,Garden,Zephyr,2024-04-24,ACTIVE,0.13,12.99,19.48,7
+SKU-000029,Tamarind Board Game 775,Toys,Tamarind,2024-10-02,ACTIVE,0.16,11.99,17.98,7
+SKU-000030,Zephyr Jacket 254,Apparel,Zephyr,2024-12-29,ACTIVE,0.18,10.99,16.48,10
+SKU-000031,Lumen Stapler 968,Office,Lumen,2023-02-25,ACTIVE,0.14,2.99,4.49,7
+SKU-000032,Tamarind Power Bank 123,Electronics,Tamarind,2025-05-08,ACTIVE,0.15,64.99,97.48,7
+SKU-000033,Cobalt Lamp 106,Home & Kitchen,Cobalt,2025-02-09,ACTIVE,0.16,36.99,55.48,5
+SKU-000034,Cobalt Speaker 640,Electronics,Cobalt,2024-02-27,ACTIVE,0.12,33.99,50.98,10
+SKU-000035,Lumen Cat Toy 450,Pet,Lumen,2023-02-26,ACTIVE,0.13,10.99,16.48,7
+SKU-000036,Orchid Hose Nozzle 826,Garden,Orchid,2023-12-02,ACTIVE,0.16,25.99,38.98,10
+SKU-000037,Zephyr Planner 447,Office,Zephyr,2024-04-16,ACTIVE,0.14,9.99,14.98,10
+SKU-000038,Kestrel Webcam 583,Electronics,Kestrel,2024-02-04,ACTIVE,0.13,123.99,185.98,10
+SKU-000039,Lumen Hoodie 693,Apparel,Lumen,2023-04-15,ACTIVE,0.18,19.99,29.98,14
+SKU-000040,Lumen Serum 948,Beauty,Lumen,2025-04-10,ACTIVE,0.19,10.99,16.48,7
+SKU-000041,Aurora Leash 611,Pet,Aurora,2023-02-19,ACTIVE,0.15,14.99,22.48,14
+SKU-000042,Nimbus Organizer 976,Home & Kitchen,Nimbus,2023-04-13,ACTIVE,0.18,12.99,19.48,10
+SKU-000043,Kestrel Stapler 942,Office,Kestrel,2023-04-11,ACTIVE,0.16,6.99,10.48,7
+SKU-000044,Cobalt Webcam 406,Electronics,Cobalt,2023-02-20,ACTIVE,0.14,38.99,58.48,10
+SKU-000045,Zephyr Puzzle 437,Toys,Zephyr,2024-08-05,ACTIVE,0.16,10.99,16.48,7
+SKU-000046,Solstice Coffee Beans 843,Grocery,Solstice,2023-01-17,ACTIVE,0.14,7.99,11.98,7
+SKU-000047,Tamarind Board Game 401,Toys,Tamarind,2024-06-18,ACTIVE,0.13,14.99,22.48,10
+SKU-000048,Lumen Olive Oil 783,Grocery,Lumen,2024-01-25,ACTIVE,0.13,9.99,14.98,5
+SKU-000049,Nimbus Pasta 892,Grocery,Nimbus,2025-02-24,ACTIVE,0.13,7.99,11.98,7
+SKU-000050,Zephyr Gym Bag 598,Sports,Zephyr,2023-03-05,ACTIVE,0.13,37.99,56.98,10
+SKU-000051,Verdant Tea Box 181,Grocery,Verdant,2025-11-06,ACTIVE,0.11,5.99,8.98,10
+SKU-000052,Tamarind Tea Box 651,Grocery,Tamarind,2023-01-03,ACTIVE,0.12,11.99,17.98,10
+SKU-000053,Solstice Honey 400,Grocery,Solstice,2025-01-20,ACTIVE,0.12,4.99,7.48,7
+SKU-000054,Meridian Building Set 257,Toys,Meridian,2025-09-16,ACTIVE,0.16,15.99,23.98,10
+SKU-000055,Lumen Hose Nozzle 328,Garden,Lumen,2025-03-03,ACTIVE,0.17,49.99,74.98,7
+SKU-000056,Aurora Planter 877,Garden,Aurora,2023-10-11,ACTIVE,0.15,27.99,41.98,14
+SKU-000057,Meridian Organizer 278,Home & Kitchen,Meridian,2024-05-18,ACTIVE,0.18,18.99,28.48,7
+SKU-000058,Tamarind Power Bank 518,Electronics,Tamarind,2024-10-19,ACTIVE,0.14,35.99,53.98,5
+SKU-000059,Tamarind Hose Nozzle 248,Garden,Tamarind,2025-05-23,ACTIVE,0.16,34.99,52.48,7
+SKU-000060,Solstice Webcam 235,Electronics,Solstice,2023-06-19,ACTIVE,0.13,38.99,58.48,14
+SKU-000061,Verdant Blender 168,Home & Kitchen,Verdant,2025-10-11,ACTIVE,0.13,15.99,23.98,7
+SKU-000062,Solstice Router 337,Electronics,Solstice,2024-11-14,ACTIVE,0.14,82.99,124.48,10
+SKU-000063,Basalt Pet Bowl 263,Pet,Basalt,2025-06-27,ACTIVE,0.14,9.99,14.98,10
+SKU-000064,Kestrel Water Bottle 229,Sports,Kestrel,2025-02-16,ACTIVE,0.13,43.99,65.98,10
+SKU-000065,Solstice Water Bottle 538,Sports,Solstice,2024-10-26,ACTIVE,0.14,22.99,34.48,14
+SKU-000066,Verdant Lamp 484,Home & Kitchen,Verdant,2025-09-16,ACTIVE,0.12,26.99,40.48,7
+SKU-000067,Meridian Folder Pack 155,Office,Meridian,2025-06-23,ACTIVE,0.12,3.99,5.98,10
+SKU-000068,Cobalt Gloves 789,Garden,Cobalt,2025-07-12,ACTIVE,0.15,11.99,17.98,10
+SKU-000069,Aurora Folder Pack 481,Office,Aurora,2024-07-06,ACTIVE,0.17,3.99,5.98,14
+SKU-000070,Tamarind Pruner 543,Garden,Tamarind,2023-12-05,ACTIVE,0.17,20.99,31.48,5
+SKU-000071,Kestrel Shampoo 712,Beauty,Kestrel,2024-01-02,ACTIVE,0.22,8.99,13.48,7
+SKU-000072,Orchid Power Bank 890,Electronics,Orchid,2025-11-25,ACTIVE,0.12,49.99,74.98,7
+SKU-000073,Orchid Watering Can 532,Garden,Orchid,2024-06-18,ACTIVE,0.17,9.99,14.98,7
+SKU-000074,Meridian Organizer 386,Home & Kitchen,Meridian,2023-11-21,ACTIVE,0.18,17.99,26.98,5
+SKU-000075,Lumen Leash 515,Pet,Lumen,2025-02-10,ACTIVE,0.18,12.99,19.48,10
+SKU-000076,Aurora Dog Chew 735,Pet,Aurora,2025-11-23,ACTIVE,0.16,11.99,17.98,10
+SKU-000077,Aurora Building Set 538,Toys,Aurora,2023-09-03,ACTIVE,0.15,10.99,16.48,10
+SKU-000078,Verdant T-Shirt 441,Apparel,Verdant,2024-06-14,ACTIVE,0.2,30.99,46.48,10
+SKU-000079,Solstice Tea Box 705,Grocery,Solstice,2024-10-15,ACTIVE,0.11,6.99,10.48,10
+SKU-000080,Orchid Shampoo 953,Beauty,Orchid,2025-01-01,ACTIVE,0.18,5.99,8.98,7
+SKU-000081,Orchid RC Car 544,Toys,Orchid,2023-12-25,ACTIVE,0.17,6.99,10.48,5
+SKU-000082,Aurora Coffee Beans 881,Grocery,Aurora,2024-11-05,ACTIVE,0.11,2.99,4.49,7
+SKU-000083,Verdant Pruner 149,Garden,Verdant,2023-06-13,ACTIVE,0.18,35.99,53.98,7
+SKU-000084,Zephyr Water Bottle 857,Sports,Zephyr,2024-02-07,ACTIVE,0.14,46.99,70.48,7
+SKU-000085,Zephyr Hoodie 984,Apparel,Zephyr,2025-08-18,ACTIVE,0.21,16.99,25.48,5
+SKU-000086,Kestrel Planter 181,Garden,Kestrel,2024-06-20,ACTIVE,0.17,22.99,34.48,7
+SKU-000087,Orchid Jacket 549,Apparel,Orchid,2023-05-30,ACTIVE,0.22,17.99,26.98,10
+SKU-000088,Lumen Band Set 795,Sports,Lumen,2025-07-12,ACTIVE,0.16,38.99,58.48,10
+SKU-000089,Orchid Folder Pack 883,Office,Orchid,2023-09-20,ACTIVE,0.13,6.99,10.48,7
+SKU-000090,Orchid Pruner 701,Garden,Orchid,2024-06-16,ACTIVE,0.18,27.99,41.98,10
+SKU-000091,Kestrel Board Game 165,Toys,Kestrel,2023-04-30,ACTIVE,0.18,25.99,38.98,5
+SKU-000092,Verdant Board Game 725,Toys,Verdant,2024-05-29,ACTIVE,0.15,17.99,26.98,7
+SKU-000093,Tamarind Joggers 237,Apparel,Tamarind,2023-08-26,ACTIVE,0.16,14.99,22.48,14
+SKU-000094,Verdant Notebook 743,Office,Verdant,2023-08-29,ACTIVE,0.16,8.99,13.48,10
+SKU-000095,Meridian Shampoo 163,Beauty,Meridian,2025-03-12,ACTIVE,0.21,11.99,17.98,5
+SKU-000096,Nimbus Organizer 887,Home & Kitchen,Nimbus,2025-08-27,ACTIVE,0.15,21.99,32.98,7
+SKU-000097,Nimbus Dog Chew 564,Pet,Nimbus,2023-12-07,ACTIVE,0.13,5.99,8.98,5
+SKU-000098,Verdant Dog Chew 250,Pet,Verdant,2023-11-29,ACTIVE,0.15,12.99,19.48,14
+SKU-000099,Tamarind Serum 627,Beauty,Tamarind,2025-09-17,ACTIVE,0.2,26.99,40.48,14
+SKU-000100,Verdant T-Shirt 520,Apparel,Verdant,2025-06-28,ACTIVE,0.15,28.99,43.48,14
+SKU-000101,Orchid Power Bank 258,Electronics,Orchid,2025-04-06,ACTIVE,0.16,100.99,151.48,10
+SKU-000102,Zephyr Notebook 338,Office,Zephyr,2024-05-03,ACTIVE,0.15,10.99,16.48,14
+SKU-000103,Meridian Shampoo 175,Beauty,Meridian,2024-03-18,ACTIVE,0.17,10.99,16.48,14
+SKU-000104,Lumen Art Kit 507,Toys,Lumen,2023-12-23,ACTIVE,0.19,25.99,38.98,5
+SKU-000105,Meridian Folder Pack 468,Office,Meridian,2024-10-31,ACTIVE,0.14,9.99,14.98,10
+SKU-000106,Zephyr Cap 188,Apparel,Zephyr,2024-07-29,ACTIVE,0.2,10.99,16.48,10
+SKU-000107,Solstice Body Lotion 587,Beauty,Solstice,2024-06-19,ACTIVE,0.18,13.99,20.98,7
+SKU-000108,Nimbus RC Car 744,Toys,Nimbus,2023-07-12,ACTIVE,0.14,35.99,53.98,7
+SKU-000109,Zephyr Shampoo 584,Beauty,Zephyr,2024-11-11,ACTIVE,0.14,21.99,32.98,7
+SKU-000110,Solstice Socks 3-Pack 798,Apparel,Solstice,2024-04-09,ACTIVE,0.15,27.99,41.98,10
+SKU-000111,Zephyr Seed Kit 991,Garden,Zephyr,2024-08-06,DISCONTINUED,0.14,40.99,61.48,7
+SKU-000112,Basalt Router 930,Electronics,Basalt,2024-02-21,ACTIVE,0.15,97.99,146.98,14
+SKU-000113,Lumen Pet Bed 430,Pet,Lumen,2023-05-28,ACTIVE,0.14,11.99,17.98,7
+SKU-000114,Meridian Speaker 855,Electronics,Meridian,2023-08-17,ACTIVE,0.11,112.99,169.48,5
+SKU-000115,Cobalt Kettle 444,Home & Kitchen,Cobalt,2023-05-01,ACTIVE,0.2,20.99,31.48,14
+SKU-000116,Basalt Plush 413,Toys,Basalt,2024-01-28,ACTIVE,0.16,6.99,10.48,10
+SKU-000117,Zephyr Folder Pack 667,Office,Zephyr,2023-08-11,ACTIVE,0.18,9.99,14.98,10
+SKU-000118,Nimbus Granola 282,Grocery,Nimbus,2025-04-19,ACTIVE,0.1,6.99,10.48,14
+SKU-000119,Lumen Gym Bag 423,Sports,Lumen,2024-12-11,ACTIVE,0.14,17.99,26.98,14
+SKU-000120,Tamarind Water Bottle 161,Sports,Tamarind,2024-04-16,ACTIVE,0.15,32.99,49.48,7
+SKU-000121,Solstice Pasta 699,Grocery,Solstice,2024-12-02,ACTIVE,0.12,2.99,4.49,7
+SKU-000122,Meridian Lip Balm 811,Beauty,Meridian,2025-05-15,ACTIVE,0.14,14.99,22.48,10
+SKU-000123,Verdant Pet Bed 461,Pet,Verdant,2023-01-05,ACTIVE,0.16,7.99,11.98,10
+SKU-000124,Solstice Headset 736,Electronics,Solstice,2024-02-01,ACTIVE,0.1,170.99,256.48,14
+SKU-000125,Kestrel Building Set 106,Toys,Kestrel,2025-02-26,ACTIVE,0.19,9.99,14.98,10
+SKU-000126,Verdant Puzzle 410,Toys,Verdant,2023-09-01,ACTIVE,0.14,22.99,34.48,7
+SKU-000127,Cobalt Planter 901,Garden,Cobalt,2025-04-16,ACTIVE,0.16,11.99,17.98,7
+SKU-000128,Aurora Serum 599,Beauty,Aurora,2025-07-18,ACTIVE,0.17,7.99,11.98,7
+SKU-000129,Cobalt Gloves 690,Garden,Cobalt,2023-10-08,ACTIVE,0.18,14.99,22.48,7
+SKU-000130,Verdant Hose Nozzle 307,Garden,Verdant,2025-08-22,ACTIVE,0.18,15.99,23.98,5
+SKU-000131,Cobalt Watering Can 880,Garden,Cobalt,2024-04-01,ACTIVE,0.17,8.99,13.48,7
+SKU-000132,Basalt Gloves 775,Garden,Basalt,2024-03-28,ACTIVE,0.12,22.99,34.48,7
+SKU-000133,Meridian RC Car 471,Toys,Meridian,2024-09-24,ACTIVE,0.18,7.99,11.98,7
+SKU-000134,Nimbus Body Lotion 215,Beauty,Nimbus,2024-12-15,ACTIVE,0.16,3.99,5.98,5
+SKU-000135,Aurora Planner 595,Office,Aurora,2025-03-15,ACTIVE,0.17,2.99,4.49,7
+SKU-000136,Aurora Planner 639,Office,Aurora,2025-04-10,ACTIVE,0.13,11.99,17.98,7
+SKU-000137,Solstice Charger 302,Electronics,Solstice,2024-06-16,ACTIVE,0.12,72.99,109.48,14
+SKU-000138,Solstice Pet Bowl 738,Pet,Solstice,2023-09-24,ACTIVE,0.14,7.99,11.98,5
+SKU-000139,Verdant Treat Pack 997,Pet,Verdant,2025-09-16,ACTIVE,0.12,7.99,11.98,14
+SKU-000140,Nimbus Shampoo 200,Beauty,Nimbus,2023-04-23,ACTIVE,0.17,13.99,20.98,14
+SKU-000141,Tamarind Treat Pack 716,Pet,Tamarind,2024-09-11,ACTIVE,0.13,5.99,8.98,7
+SKU-000142,Nimbus Skipping Rope 440,Sports,Nimbus,2023-02-02,ACTIVE,0.12,32.99,49.48,10
+SKU-000143,Kestrel Joggers 778,Apparel,Kestrel,2025-09-06,ACTIVE,0.22,22.99,34.48,7
+SKU-000144,Zephyr Mixer 742,Home & Kitchen,Zephyr,2023-07-15,ACTIVE,0.14,22.99,34.48,7
+SKU-000145,Aurora Dumbbell Pair 889,Sports,Aurora,2024-08-02,ACTIVE,0.19,29.99,44.98,7
+SKU-000146,Cobalt Folder Pack 403,Office,Cobalt,2024-09-26,ACTIVE,0.16,5.99,8.98,10
+SKU-000147,Zephyr Hoodie 323,Apparel,Zephyr,2025-10-26,ACTIVE,0.19,15.99,23.98,5
+SKU-000148,Kestrel Hose Nozzle 192,Garden,Kestrel,2025-06-21,ACTIVE,0.13,18.99,28.48,7
+SKU-000149,Lumen Jacket 846,Apparel,Lumen,2025-02-12,ACTIVE,0.17,7.99,11.98,7
+SKU-000150,Meridian Planter 740,Garden,Meridian,2025-07-16,ACTIVE,0.15,10.99,16.48,7
+SKU-000151,Verdant Honey 864,Grocery,Verdant,2024-12-23,DISCONTINUED,0.12,3.99,5.98,14
+SKU-000152,Aurora Coffee Beans 316,Grocery,Aurora,2025-09-24,ACTIVE,0.14,4.99,7.48,14
+SKU-000153,Zephyr Band Set 528,Sports,Zephyr,2023-11-17,ACTIVE,0.18,33.99,50.98,7
+SKU-000154,Verdant Leash 427,Pet,Verdant,2024-12-22,DISCONTINUED,0.15,21.99,32.98,5
+SKU-000155,Basalt Cap 824,Apparel,Basalt,2024-08-31,ACTIVE,0.2,13.99,20.98,14
+SKU-000156,Aurora Lip Balm 179,Beauty,Aurora,2023-07-23,ACTIVE,0.16,13.99,20.98,14
+SKU-000157,Lumen Treat Pack 289,Pet,Lumen,2024-07-18,ACTIVE,0.15,14.99,22.48,10
+SKU-000158,Nimbus Face Wash 553,Beauty,Nimbus,2024-06-29,ACTIVE,0.21,10.99,16.48,10
+SKU-000159,Kestrel Lip Balm 900,Beauty,Kestrel,2024-01-08,ACTIVE,0.15,6.99,10.48,7
+SKU-000160,Solstice Webcam 149,Electronics,Solstice,2024-02-07,ACTIVE,0.11,101.99,152.98,5
+SKU-000161,Zephyr Pasta 684,Grocery,Zephyr,2025-01-02,ACTIVE,0.14,2.99,4.49,7
+SKU-000162,Basalt Body Lotion 403,Beauty,Basalt,2025-11-20,ACTIVE,0.16,3.99,5.98,7
+SKU-000163,Aurora Tea Box 240,Grocery,Aurora,2025-04-03,ACTIVE,0.11,4.99,7.48,10
+SKU-000164,Solstice Face Wash 325,Beauty,Solstice,2025-10-29,ACTIVE,0.19,9.99,14.98,7
+SKU-000165,Solstice Notebook 270,Office,Solstice,2023-12-21,ACTIVE,0.14,9.99,14.98,7
+SKU-000166,Nimbus Pan Set 790,Home & Kitchen,Nimbus,2024-05-02,ACTIVE,0.14,15.99,23.98,10
+SKU-000167,Orchid Gym Bag 121,Sports,Orchid,2024-03-28,ACTIVE,0.18,35.99,53.98,5
+SKU-000168,Nimbus Speaker 891,Electronics,Nimbus,2025-11-12,ACTIVE,0.12,178.99,268.48,5
+SKU-000169,Solstice Notebook 544,Office,Solstice,2025-05-24,ACTIVE,0.16,3.99,5.98,5
+SKU-000170,Verdant RC Car 357,Toys,Verdant,2024-10-24,ACTIVE,0.2,8.99,13.48,5
+SKU-000171,Meridian Pasta 849,Grocery,Meridian,2023-09-04,ACTIVE,0.12,8.99,13.48,10
+SKU-000172,Orchid Shampoo 301,Beauty,Orchid,2025-06-15,ACTIVE,0.15,6.99,10.48,5
+SKU-000173,Tamarind Face Wash 555,Beauty,Tamarind,2024-12-04,ACTIVE,0.2,8.99,13.48,14
+SKU-000174,Solstice Board Game 498,Toys,Solstice,2023-06-26,ACTIVE,0.2,11.99,17.98,7
+SKU-000175,Verdant Shampoo 996,Beauty,Verdant,2025-10-14,ACTIVE,0.15,11.99,17.98,10
+SKU-000176,Verdant Stapler 346,Office,Verdant,2023-10-08,ACTIVE,0.13,17.99,26.98,5
+SKU-000177,Zephyr Router 720,Electronics,Zephyr,2024-02-24,ACTIVE,0.13,26.99,40.48,7
+SKU-000178,Cobalt Jacket 307,Apparel,Cobalt,2024-07-09,ACTIVE,0.16,15.99,23.98,7
+SKU-000179,Orchid Pet Bed 692,Pet,Orchid,2024-10-07,ACTIVE,0.13,11.99,17.98,7
+SKU-000180,Basalt Granola 638,Grocery,Basalt,2024-03-23,ACTIVE,0.12,3.99,5.98,14
+SKU-000181,Kestrel Blender 423,Home & Kitchen,Kestrel,2024-07-21,ACTIVE,0.12,40.99,61.48,7
+SKU-000182,Solstice Pan Set 514,Home & Kitchen,Solstice,2024-12-29,ACTIVE,0.14,19.99,29.98,10
+SKU-000183,Meridian Skipping Rope 633,Sports,Meridian,2023-10-01,ACTIVE,0.14,26.99,40.48,14
+SKU-000184,Zephyr Face Wash 982,Beauty,Zephyr,2025-05-27,ACTIVE,0.18,6.99,10.48,14
+SKU-000185,Zephyr Socks 3-Pack 385,Apparel,Zephyr,2023-10-22,ACTIVE,0.18,13.99,20.98,5
+SKU-000186,Verdant Watering Can 305,Garden,Verdant,2025-11-29,ACTIVE,0.17,23.99,35.98,7
+SKU-000187,Cobalt Mixer 542,Home & Kitchen,Cobalt,2025-01-24,ACTIVE,0.14,38.99,58.48,10
+SKU-000188,Aurora Notebook 939,Office,Aurora,2024-08-22,ACTIVE,0.15,6.99,10.48,7
+SKU-000189,Meridian Building Set 115,Toys,Meridian,2023-09-16,ACTIVE,0.16,17.99,26.98,14
+SKU-000190,Meridian Blender 529,Home & Kitchen,Meridian,2023-09-26,ACTIVE,0.13,12.99,19.48,7
+SKU-000191,Zephyr Pan Set 844,Home & Kitchen,Zephyr,2025-12-01,ACTIVE,0.18,16.99,25.48,10
+SKU-000192,Basalt Organizer 756,Home & Kitchen,Basalt,2024-10-06,ACTIVE,0.18,19.99,29.98,7
+SKU-000193,Lumen Tea Box 457,Grocery,Lumen,2024-01-28,ACTIVE,0.12,5.99,8.98,10
+SKU-000194,Lumen Yoga Mat 729,Sports,Lumen,2023-02-19,ACTIVE,0.18,19.99,29.98,7
+SKU-000195,Kestrel Tea Box 715,Grocery,Kestrel,2023-06-29,ACTIVE,0.14,4.99,7.48,7
+SKU-000196,Verdant Webcam 971,Electronics,Verdant,2024-03-24,ACTIVE,0.14,143.99,215.98,5
+SKU-000197,Aurora T-Shirt 835,Apparel,Aurora,2025-04-25,ACTIVE,0.15,35.99,53.98,10
+SKU-000198,Zephyr Plush 750,Toys,Zephyr,2024-11-16,ACTIVE,0.19,23.99,35.98,7
+SKU-000199,Kestrel Power Bank 279,Electronics,Kestrel,2024-08-07,ACTIVE,0.12,108.99,163.48,5
+SKU-000200,Kestrel Treat Pack 885,Pet,Kestrel,2024-08-03,ACTIVE,0.18,5.99,8.98,7
+SKU-000201,Tamarind Pan Set 979,Home & Kitchen,Tamarind,2024-06-21,ACTIVE,0.2,15.99,23.98,10
+SKU-000202,Zephyr Pet Bowl 615,Pet,Zephyr,2023-05-07,ACTIVE,0.16,11.99,17.98,5
+SKU-000203,Zephyr Lamp 933,Home & Kitchen,Zephyr,2024-11-04,ACTIVE,0.16,6.99,10.48,5
+SKU-000204,Cobalt Folder Pack 706,Office,Cobalt,2025-08-13,DISCONTINUED,0.13,8.99,13.48,10
+SKU-000205,Solstice Skipping Rope 470,Sports,Solstice,2023-01-31,ACTIVE,0.13,17.99,26.98,10
+SKU-000206,Aurora Pet Bed 632,Pet,Aurora,2023-04-25,ACTIVE,0.17,27.99,41.98,7
+SKU-000207,Zephyr Water Bottle 436,Sports,Zephyr,2023-06-22,ACTIVE,0.17,37.99,56.98,14
+SKU-000208,Tamarind Band Set 962,Sports,Tamarind,2025-02-11,ACTIVE,0.15,40.99,61.48,5
+SKU-000209,Kestrel Pet Bowl 611,Pet,Kestrel,2023-02-13,ACTIVE,0.13,16.99,25.48,5
+SKU-000210,Lumen Pet Bowl 615,Pet,Lumen,2025-08-05,ACTIVE,0.16,13.99,20.98,7
+SKU-000211,Aurora Coffee Beans 529,Grocery,Aurora,2023-04-17,ACTIVE,0.14,1.99,2.98,14
+SKU-000212,Tamarind Desk Pad 934,Office,Tamarind,2023-01-08,ACTIVE,0.16,9.99,14.98,7
+SKU-000213,Solstice Organizer 334,Home & Kitchen,Solstice,2023-05-21,ACTIVE,0.17,16.99,25.48,5
+SKU-000214,Verdant Planner 209,Office,Verdant,2025-11-20,ACTIVE,0.18,10.99,16.48,7
+SKU-000215,Orchid Webcam 629,Electronics,Orchid,2025-11-24,ACTIVE,0.13,39.99,59.98,10
+SKU-000216,Basalt Power Bank 665,Electronics,Basalt,2023-09-11,ACTIVE,0.12,100.99,151.48,5
+SKU-000217,Basalt Pruner 138,Garden,Basalt,2025-06-18,ACTIVE,0.18,18.99,28.48,5
+SKU-000218,Verdant Treat Pack 945,Pet,Verdant,2023-02-13,ACTIVE,0.14,17.99,26.98,10
+SKU-000219,Lumen Body Lotion 356,Beauty,Lumen,2023-11-02,ACTIVE,0.19,8.99,13.48,5
+SKU-000220,Kestrel Pasta 225,Grocery,Kestrel,2024-05-02,ACTIVE,0.13,2.99,4.49,5
+SKU-000221,Kestrel Coffee Beans 241,Grocery,Kestrel,2024-07-14,ACTIVE,0.11,4.99,7.48,10
+SKU-000222,Tamarind Pet Bowl 604,Pet,Tamarind,2025-03-27,ACTIVE,0.15,10.99,16.48,10
+SKU-000223,Cobalt Watering Can 824,Garden,Cobalt,2025-07-31,ACTIVE,0.15,55.99,83.98,10
+SKU-000224,Tamarind Speaker 449,Electronics,Tamarind,2025-07-15,ACTIVE,0.1,81.99,122.98,5
+SKU-000225,Kestrel Pan Set 730,Home & Kitchen,Kestrel,2025-05-23,ACTIVE,0.12,22.99,34.48,14
+SKU-000226,Zephyr Dog Chew 120,Pet,Zephyr,2024-06-15,ACTIVE,0.15,7.99,11.98,10
+SKU-000227,Kestrel Watering Can 485,Garden,Kestrel,2024-10-28,ACTIVE,0.17,18.99,28.48,7
+SKU-000228,Cobalt Cat Toy 444,Pet,Cobalt,2024-12-07,ACTIVE,0.16,32.99,49.48,7
+SKU-000229,Tamarind T-Shirt 884,Apparel,Tamarind,2023-02-02,ACTIVE,0.18,17.99,26.98,7
+SKU-000230,Aurora Kettle 737,Home & Kitchen,Aurora,2023-03-17,ACTIVE,0.19,14.99,22.48,10
+SKU-000231,Cobalt Yoga Mat 512,Sports,Cobalt,2024-10-02,ACTIVE,0.12,11.99,17.98,10
+SKU-000232,Lumen Notebook 867,Office,Lumen,2023-08-03,ACTIVE,0.17,7.99,11.98,10
+SKU-000233,Kestrel Puzzle 189,Toys,Kestrel,2023-01-02,ACTIVE,0.15,6.99,10.48,7
+SKU-000234,Orchid Board Game 409,Toys,Orchid,2024-03-31,ACTIVE,0.13,7.99,11.98,7
+SKU-000235,Kestrel Hose Nozzle 548,Garden,Kestrel,2023-07-30,ACTIVE,0.15,17.99,26.98,10
+SKU-000236,Lumen T-Shirt 305,Apparel,Lumen,2024-01-10,ACTIVE,0.21,12.99,19.48,7
+SKU-000237,Zephyr Seed Kit 495,Garden,Zephyr,2025-05-29,ACTIVE,0.14,20.99,31.48,7
+SKU-000238,Orchid Webcam 974,Electronics,Orchid,2023-02-06,ACTIVE,0.1,137.99,206.98,5
+SKU-000239,Meridian Blender 577,Home & Kitchen,Meridian,2023-03-14,ACTIVE,0.13,6.99,10.48,5
+SKU-000240,Verdant Headset 508,Electronics,Verdant,2023-03-25,ACTIVE,0.1,19.99,29.98,7
+SKU-000241,Lumen Watering Can 742,Garden,Lumen,2024-09-01,ACTIVE,0.2,46.99,70.48,10
+SKU-000242,Solstice Honey 542,Grocery,Solstice,2024-11-12,ACTIVE,0.1,4.99,7.48,14
+SKU-000243,Zephyr Granola 953,Grocery,Zephyr,2023-10-17,ACTIVE,0.11,1.99,2.98,7
+SKU-000244,Solstice Planter 448,Garden,Solstice,2023-12-10,ACTIVE,0.17,15.99,23.98,14
+SKU-000245,Kestrel Puzzle 231,Toys,Kestrel,2025-11-13,ACTIVE,0.16,20.99,31.48,7
+SKU-000246,Meridian Headset 758,Electronics,Meridian,2025-11-22,ACTIVE,0.1,190.99,286.48,5
+SKU-000247,Basalt Puzzle 122,Toys,Basalt,2023-12-01,ACTIVE,0.16,12.99,19.48,7
+SKU-000248,Verdant Gym Bag 831,Sports,Verdant,2023-01-21,ACTIVE,0.14,41.99,62.98,7
+SKU-000249,Meridian Coffee Beans 182,Grocery,Meridian,2023-08-24,ACTIVE,0.11,5.99,8.98,7
+SKU-000250,Verdant Pen Set 335,Office,Verdant,2025-08-01,ACTIVE,0.18,4.99,7.48,14
+SKU-000251,Nimbus Pan Set 451,Home & Kitchen,Nimbus,2023-07-27,ACTIVE,0.15,65.99,98.98,5
+SKU-000252,Solstice Joggers 981,Apparel,Solstice,2024-07-08,ACTIVE,0.19,14.99,22.48,10
+SKU-000253,Meridian Folder Pack 518,Office,Meridian,2024-07-25,ACTIVE,0.15,30.99,46.48,10
+SKU-000254,Lumen Dumbbell Pair 701,Sports,Lumen,2023-08-01,ACTIVE,0.13,15.99,23.98,5
+SKU-000255,Zephyr Plush 623,Toys,Zephyr,2024-11-05,ACTIVE,0.17,35.99,53.98,5
+SKU-000256,Solstice Treat Pack 224,Pet,Solstice,2023-10-08,ACTIVE,0.18,9.99,14.98,7
+SKU-000257,Meridian Jacket 288,Apparel,Meridian,2023-10-11,ACTIVE,0.2,10.99,16.48,7
+SKU-000258,Nimbus Hose Nozzle 197,Garden,Nimbus,2025-05-26,ACTIVE,0.14,15.99,23.98,7
+SKU-000259,Lumen Seed Kit 896,Garden,Lumen,2023-02-02,ACTIVE,0.13,22.99,34.48,5
+SKU-000260,Lumen Cat Toy 465,Pet,Lumen,2023-07-21,ACTIVE,0.17,14.99,22.48,7
+SKU-000261,Basalt Leash 605,Pet,Basalt,2025-01-21,ACTIVE,0.14,18.99,28.48,10
+SKU-000262,Zephyr Mixer 804,Home & Kitchen,Zephyr,2023-02-07,ACTIVE,0.12,22.99,34.48,7
+SKU-000263,Nimbus Mixer 814,Home & Kitchen,Nimbus,2025-08-02,ACTIVE,0.12,14.99,22.48,7
+SKU-000264,Verdant Sunscreen 595,Beauty,Verdant,2024-10-03,ACTIVE,0.2,4.99,7.48,5
+SKU-000265,Solstice Mixer 808,Home & Kitchen,Solstice,2023-11-20,ACTIVE,0.16,26.99,40.48,7
+SKU-000266,Orchid Face Wash 298,Beauty,Orchid,2025-02-14,ACTIVE,0.16,12.99,19.48,7
+SKU-000267,Verdant Seed Kit 399,Garden,Verdant,2024-07-24,ACTIVE,0.14,14.99,22.48,7
+SKU-000268,Nimbus Hose Nozzle 924,Garden,Nimbus,2024-04-03,ACTIVE,0.2,13.99,20.98,7
+SKU-000269,Cobalt Blender 493,Home & Kitchen,Cobalt,2023-06-19,ACTIVE,0.16,17.99,26.98,7
+SKU-000270,Basalt Olive Oil 340,Grocery,Basalt,2023-06-23,ACTIVE,0.13,2.99,4.49,10
+SKU-000271,Nimbus Kettle 685,Home & Kitchen,Nimbus,2024-02-25,ACTIVE,0.18,19.99,29.98,5
+SKU-000272,Tamarind Blender 891,Home & Kitchen,Tamarind,2023-09-06,ACTIVE,0.18,33.99,50.98,7
+SKU-000273,Basalt Shampoo 567,Beauty,Basalt,2025-11-19,ACTIVE,0.18,2.99,4.49,10
+SKU-000274,Meridian Olive Oil 521,Grocery,Meridian,2023-03-31,ACTIVE,0.13,2.99,4.49,10
+SKU-000275,Lumen Band Set 580,Sports,Lumen,2025-11-18,ACTIVE,0.12,23.99,35.98,14
+SKU-000276,Kestrel Pruner 892,Garden,Kestrel,2023-02-11,ACTIVE,0.18,22.99,34.48,10
+SKU-000277,Orchid Treat Pack 659,Pet,Orchid,2025-11-04,ACTIVE,0.16,14.99,22.48,5
+SKU-000278,Aurora Tea Box 278,Grocery,Aurora,2025-01-21,ACTIVE,0.11,6.99,10.48,10
+SKU-000279,Meridian Pen Set 505,Office,Meridian,2025-05-01,ACTIVE,0.15,9.99,14.98,7
+SKU-000280,Zephyr Planner 898,Office,Zephyr,2024-05-05,ACTIVE,0.14,8.99,13.48,7
+SKU-000281,Cobalt Granola 982,Grocery,Cobalt,2023-08-15,ACTIVE,0.1,4.99,7.48,10
+SKU-000282,Kestrel Tea Box 649,Grocery,Kestrel,2024-11-28,ACTIVE,0.13,14.99,22.48,5
+SKU-000283,Nimbus Leash 279,Pet,Nimbus,2025-01-16,DISCONTINUED,0.15,4.99,7.48,14
+SKU-000284,Solstice Hose Nozzle 596,Garden,Solstice,2024-01-20,ACTIVE,0.2,19.99,29.98,14
+SKU-000285,Lumen Router 564,Electronics,Lumen,2023-03-23,ACTIVE,0.15,46.99,70.48,7
+SKU-000286,Meridian Notebook 172,Office,Meridian,2023-07-23,ACTIVE,0.18,5.99,8.98,10
+SKU-000287,Lumen Water Bottle 970,Sports,Lumen,2024-03-13,ACTIVE,0.16,40.99,61.48,10
+SKU-000288,Basalt Headset 343,Electronics,Basalt,2024-04-15,ACTIVE,0.1,28.99,43.48,10
+SKU-000289,Verdant Board Game 878,Toys,Verdant,2024-05-28,ACTIVE,0.19,55.99,83.98,5
+SKU-000290,Nimbus Treat Pack 265,Pet,Nimbus,2025-03-19,ACTIVE,0.13,14.99,22.48,5
+SKU-000291,Kestrel Kettle 396,Home & Kitchen,Kestrel,2025-03-14,ACTIVE,0.12,38.99,58.48,7
+SKU-000292,Solstice Charger 429,Electronics,Solstice,2024-09-10,ACTIVE,0.14,42.99,64.48,10
+SKU-000293,Lumen Jacket 470,Apparel,Lumen,2024-05-05,ACTIVE,0.16,19.99,29.98,7
+SKU-000294,Basalt Lamp 408,Home & Kitchen,Basalt,2024-04-10,ACTIVE,0.15,16.99,25.48,5
+SKU-000295,Tamarind Hose Nozzle 402,Garden,Tamarind,2024-08-10,ACTIVE,0.13,10.99,16.48,5
+SKU-000296,Cobalt Lamp 961,Home & Kitchen,Cobalt,2023-02-26,ACTIVE,0.17,25.99,38.98,7
+SKU-000297,Cobalt T-Shirt 291,Apparel,Cobalt,2024-02-23,ACTIVE,0.19,18.99,28.48,10
+SKU-000298,Cobalt Olive Oil 532,Grocery,Cobalt,2024-06-14,ACTIVE,0.11,3.99,5.98,5
+SKU-000299,Aurora Band Set 549,Sports,Aurora,2024-07-01,ACTIVE,0.18,10.99,16.48,7
+SKU-000300,Orchid Headset 293,Electronics,Orchid,2024-11-18,ACTIVE,0.11,83.99,125.98,7

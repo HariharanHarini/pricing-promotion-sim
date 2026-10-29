@@ -1,0 +1,117 @@
+{
+  "scale": {
+    "skus": 5000,
+    "days": 180,
+    "price_days": 900000,
+    "decisions": 129441,
+    "orders": 530453,
+    "units": 661788,
+    "promotions": 2000,
+    "competitor_observations": 509802
+  },
+  "commercial": {
+    "net_revenue": 9531563.38,
+    "gross_margin": 2886438.41,
+    "gross_margin_pct": 0.3028,
+    "avg_discount_rate": 0.1214,
+    "promo_penetration_orders": 0.6847,
+    "orders_below_product_min_margin": {
+      "total": 46510,
+      "clearance_5pct_rule": 42662,
+      "stack_violation": 727,
+      "list_price_below_floor": 3495,
+      "unexplained": 0
+    }
+  },
+  "availability": {
+    "stockout_sku_day_rate": 0.0326,
+    "unfulfilled_unit_rate": 0.0328,
+    "skus_with_any_stockout": 3300
+  },
+  "pricing": {
+    "decisions_applied": 40302,
+    "guardrail_counts": {
+      "NONE": 126557,
+      "MAX_STEP": 2420,
+      "FLOOR": 464
+    },
+    "reason_counts": {
+      "HOLD_NO_SIGNAL": 84836,
+      "COMPETITOR_MATCH": 21768,
+      "LOW_STOCK_INCREASE": 8352,
+      "OVERSTOCK_MARKDOWN": 8163,
+      "STOCKOUT_HOLD": 4193,
+      "COST_PASS_THROUGH": 2065,
+      "FLOOR_ENFORCEMENT": 64
+    },
+    "exception_counts": {
+      "STALE_COMPETITOR_IGNORED": 7187,
+      "STOCKOUT_HOLD": 4234,
+      "COMPETITOR_OUT_OF_STOCK": 1275,
+      "NO_COMPETITOR_DATA": 2
+    },
+    "price_change_days": 40605,
+    "competitor_price_index_at_decision": 0.9874,
+    "stale_competitor_share_of_decisions": 0.0555
+  },
+  "promotions": {
+    "status_counts": {
+      "ENDED": 1715,
+      "ACTIVE": 191,
+      "CANCELLED": 94
+    },
+    "type_counts": {
+      "COUPON": 800,
+      "CLEARANCE": 676,
+      "CATEGORY": 500,
+      "SITEWIDE": 24
+    }
+  },
+  "anomaly_detection": {
+    "PRICE_BELOW_FLOOR": {
+      "injected": 513,
+      "detected": 513,
+      "true_pos": 513,
+      "false_pos": 0,
+      "false_neg": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "PROMOTION_STACK_VIOLATION": {
+      "injected": 1632,
+      "detected": 1632,
+      "true_pos": 1632,
+      "false_pos": 0,
+      "false_neg": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "STALE_OBSERVATION_AS_CURRENT": {
+      "injected": 1328,
+      "detected": 1328,
+      "true_pos": 1328,
+      "false_pos": 0,
+      "false_neg": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "MARGIN_BEFORE_DISCOUNT": {
+      "injected": 5435,
+      "detected": 5435,
+      "true_pos": 5435,
+      "false_pos": 0,
+      "false_neg": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "PRICE_CHANGE_LACKS_REASON": {
+      "injected": 303,
+      "detected": 303,
+      "true_pos": 303,
+      "false_pos": 0,
+      "false_neg": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    }
+  }
+}

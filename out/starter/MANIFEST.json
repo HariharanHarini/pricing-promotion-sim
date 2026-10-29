@@ -1,0 +1,72 @@
+{
+  "data/product.csv": {
+    "rows": 300,
+    "bytes": 25465,
+    "sha256": "f939ecd07aa440ec34d8abc7b42613865b068a06f495b8bc70dd7b224458a0cf"
+  },
+  "data/cost_record.csv": {
+    "rows": 900,
+    "bytes": 70704,
+    "sha256": "262a06442ae6e8d7390c1cb32bc9d51def80ad61f003b825e463d9229df12169"
+  },
+  "data/price_history.csv": {
+    "rows": 18000,
+    "bytes": 1885342,
+    "sha256": "74276e086124e785a1abe776833a533fd24307c1f6a0e653d6c4320569da03b9"
+  },
+  "data/competitor_observation.csv": {
+    "rows": 10138,
+    "bytes": 972601,
+    "sha256": "fd5dabd6b846cfdf5dce19bf33c83f8106e5a4c4dba9cf6b4096dab0183e5240"
+  },
+  "data/inventory_snapshot.csv": {
+    "rows": 18000,
+    "bytes": 1194316,
+    "sha256": "90b032f8932ebd5236db5214fc75ea549d0c6976379d9b3d5080810f62f23a87"
+  },
+  "data/promotion.csv": {
+    "rows": 100,
+    "bytes": 12148,
+    "sha256": "41b8526d7d388519de42cf518e52f6de152ad285ca7f3c7d6e26be27587fe5c2"
+  },
+  "data/promotion_rule.csv": {
+    "rows": 500,
+    "bytes": 31634,
+    "sha256": "fbab7801ff74a6302e19674c369910ea4dc329f27c615f531024f55d97d6580a"
+  },
+  "data/promotion_sku.csv": {
+    "rows": 2236,
+    "bytes": 64857,
+    "sha256": "a6685082b0410f1052aa1d7fe03c6a2436fd115cd7b5cad51a73707c606b8336"
+  },
+  "data/promotion_event.csv": {
+    "rows": 367,
+    "bytes": 25527,
+    "sha256": "577ab7bd425b87a6d31eec04711020d1d00980687b9486a4b0c47b35ca53b48b"
+  },
+  "data/product_status_event.csv": {
+    "rows": 306,
+    "bytes": 19125,
+    "sha256": "05960f22d2e612f034a6de531ab39fe17a8dc785d92db16fdd6f5ff850aa89e3"
+  },
+  "data/orders.csv": {
+    "rows": 10625,
+    "bytes": 1806089,
+    "sha256": "df7707a8ecfe3815f3abe65196fe598f008cb280073b647ae74062b13d592e46"
+  },
+  "data/order_promotion.csv": {
+    "rows": 6017,
+    "bytes": 246164,
+    "sha256": "050673571648d20db0530775ed51b76fbf0cce947978e22a6e00e70d4c801d46"
+  },
+  "data/price_decision.csv": {
+    "rows": 2498,
+    "bytes": 501775,
+    "sha256": "e17fca0ea0878ccc857d28d20d86a1dcb38fbc72d0eb2342f4422c38e5d04f71"
+  },
+  "ground_truth/ground_truth.csv": {
+    "rows": 168,
+    "bytes": 27313,
+    "sha256": "7323c4203d54b9bc18096a5c771ad44738d392842795e11ada3e5204da845534"
+  }
+}

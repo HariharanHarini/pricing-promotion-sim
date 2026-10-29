@@ -1,0 +1,386 @@
+{
+ "passed": 76,
+ "failed": 0,
+ "checks": [
+  {
+   "check": "columns match data dictionary: product",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "PK unique: product",
+   "passed": true,
+   "detail": "pk=['sku'], rows=5,000"
+  },
+  {
+   "check": "columns match data dictionary: cost_record",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "PK unique: cost_record",
+   "passed": true,
+   "detail": "pk=['cost_id'], rows=30,000"
+  },
+  {
+   "check": "columns match data dictionary: price_history",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "PK unique: price_history",
+   "passed": true,
+   "detail": "pk=['price_id'], rows=900,000"
+  },
+  {
+   "check": "columns match data dictionary: competitor_observation",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "PK unique: competitor_observation",
+   "passed": true,
+   "detail": "pk=['obs_id'], rows=509,802"
+  },
+  {
+   "check": "columns match data dictionary: inventory_snapshot",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "PK unique: inventory_snapshot",
+   "passed": true,
+   "detail": "pk=['snapshot_id'], rows=900,000"
+  },
+  {
+   "check": "columns match data dictionary: promotion",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "PK unique: promotion",
+   "passed": true,
+   "detail": "pk=['promo_id'], rows=2,000"
+  },
+  {
+   "check": "columns match data dictionary: promotion_rule",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "PK unique: promotion_rule",
+   "passed": true,
+   "detail": "pk=['rule_id'], rows=10,000"
+  },
+  {
+   "check": "columns match data dictionary: promotion_sku",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "PK unique: promotion_sku",
+   "passed": true,
+   "detail": "pk=['promo_id', 'sku'], rows=181,837"
+  },
+  {
+   "check": "columns match data dictionary: promotion_event",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "PK unique: promotion_event",
+   "passed": true,
+   "detail": "pk=['event_id'], rows=7,796"
+  },
+  {
+   "check": "columns match data dictionary: product_status_event",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "PK unique: product_status_event",
+   "passed": true,
+   "detail": "pk=['event_id'], rows=5,100"
+  },
+  {
+   "check": "columns match data dictionary: orders",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "PK unique: orders",
+   "passed": true,
+   "detail": "pk=['order_id'], rows=530,453"
+  },
+  {
+   "check": "columns match data dictionary: order_promotion",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "PK unique: order_promotion",
+   "passed": true,
+   "detail": "pk=['order_id', 'promo_id'], rows=381,752"
+  },
+  {
+   "check": "columns match data dictionary: price_decision",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "PK unique: price_decision",
+   "passed": true,
+   "detail": "pk=['decision_id'], rows=129,441"
+  },
+  {
+   "check": "required fields non-null and enum values valid (all tables)",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "FK integrity (19 relationships)",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "volume: price_history = SKUs x days",
+   "passed": true,
+   "detail": "900,000 = 5,000 x 180"
+  },
+  {
+   "check": "volume: inventory_snapshot = SKUs x days",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "volume: promotions",
+   "passed": true,
+   "detail": "2,000"
+  },
+  {
+   "check": "ID conventions (SKU-000001, COST-<sku>-2026-01, PRC-<sku>-20260101, PROMO-2026-000001, DEC-2026-000001)",
+   "passed": true,
+   "detail": "[]"
+  },
+  {
+   "check": "ID embeds match their row (cost_id/price_id/snapshot_id contain sku and date)",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "cost_record: effective_from <= effective_to",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "cost_record: contiguous, no gaps/overlaps",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "cost_record: exactly one ACTIVE row per SKU",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "cost_record: change_pct = unit_cost/prev - 1; reason iff changed",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "promotion: created < start <= end",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "promotion_event: allowed lifecycle transitions + chronological",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "promotion.status = last promotion_event.to_state",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "promotion: cancelled_date set iff CANCELLED",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "event from_state chain consistent (from_state = previous to_state)",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "product.lifecycle_state = last product_status_event",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "competitor_observation: observed_at <= ingested_at; lag reconciles",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "competitor_observation: no duplicate (sku, competitor, ingested_at)",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "price_history: daily contiguous per SKU",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "price_history: prev_list_price = previous day list_price",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "price_history: is_price_change consistent",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "price_history.cost_id is the cost in force (join + date within effective window)",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "price_history.price_floor = ceil(cost / (1 - min_margin))",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "price <= ceiling everywhere",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "guardrail: every below-floor price traces to a decision that itself is below floor (no silent breaches)",
+   "passed": true,
+   "detail": "3,474 below-floor price-days from 513 decisions"
+  },
+  {
+   "check": "explainability: every price change has decision_id + change_reason, except manual overrides",
+   "passed": true,
+   "detail": "303 unexplained changes (scored below vs ground truth)"
+  },
+  {
+   "check": "price_history <-> decision: same SKU, same date, price = final_price, reason = reason_code",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "every APPLIED decision appears in price_history",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "decision arithmetic: price_change_pct, margin_pct_at_final, status",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "FLOOR guardrail rows end at the floor",
+   "passed": true,
+   "detail": "464 rows"
+  },
+  {
+   "check": "inventory: closing = opening - sold",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "inventory: opening = previous closing + received",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "inventory: stockout_flag = (closing == 0); no negative stock",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "reconciliation: inventory.units_sold = SUM(orders.quantity) per SKU/day",
+   "passed": true,
+   "detail": "661,788 units"
+  },
+  {
+   "check": "orders join price_history/cost_record: same list price, unit cost, date",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "orders: gross = qty x list; cogs = qty x cost; net = gross - discount; margin amount = net - cogs",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "orders.discount_amount = SUM(order_promotion lines); promo_count = rows",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "order_promotion: apply_seq 1..n without gaps",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "no duplicate orders (all columns except id)",
+   "passed": true,
+   "detail": "0 duplicates"
+  },
+  {
+   "check": "data/ has no ground-truth columns (no leakage)",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "promotion eligibility reproducible: independent re-implementation matches applied promos",
+   "passed": true,
+   "detail": "4,000 sampled orders, 0 mismatches"
+  },
+  {
+   "check": "promo margin guard: every order under product min margin is explained (CLEARANCE 5% rule, stack violation, or below-floor list price)",
+   "passed": true,
+   "detail": "{'total': 46510, 'clearance_5pct_rule': 42662, 'stack_violation': 727, 'list_price_below_floor': 3495, 'unexplained': 0}"
+  },
+  {
+   "check": "detector PRICE_BELOW_FLOOR: precision/recall vs ground truth",
+   "passed": true,
+   "detail": "{'injected': 513, 'detected': 513, 'true_pos': 513, 'false_pos': 0, 'false_neg': 0, 'precision': 1.0, 'recall': 1.0}"
+  },
+  {
+   "check": "detector PROMOTION_STACK_VIOLATION: precision/recall vs ground truth",
+   "passed": true,
+   "detail": "{'injected': 1632, 'detected': 1632, 'true_pos': 1632, 'false_pos': 0, 'false_neg': 0, 'precision': 1.0, 'recall': 1.0}"
+  },
+  {
+   "check": "detector STALE_OBSERVATION_AS_CURRENT: precision/recall vs ground truth",
+   "passed": true,
+   "detail": "{'injected': 1328, 'detected': 1328, 'true_pos': 1328, 'false_pos': 0, 'false_neg': 0, 'precision': 1.0, 'recall': 1.0}"
+  },
+  {
+   "check": "detector MARGIN_BEFORE_DISCOUNT: precision/recall vs ground truth",
+   "passed": true,
+   "detail": "{'injected': 5435, 'detected': 5435, 'true_pos': 5435, 'false_pos': 0, 'false_neg': 0, 'precision': 1.0, 'recall': 1.0}"
+  },
+  {
+   "check": "detector PRICE_CHANGE_LACKS_REASON: precision/recall vs ground truth",
+   "passed": true,
+   "detail": "{'injected': 303, 'detected': 303, 'true_pos': 303, 'false_pos': 0, 'false_neg': 0, 'precision': 1.0, 'recall': 1.0}"
+  },
+  {
+   "check": "every required edge case is present in ground truth",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "anomalies are labelled, not silent: baseline rows violate no rule beyond ground truth",
+   "passed": true,
+   "detail": ""
+  }
+ ]
+}

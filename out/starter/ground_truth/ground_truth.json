@@ -1,0 +1,1346 @@
+[
+ {
+  "gt_id":"GT-000001",
+  "record_type":"orders",
+  "record_id":"ORD-2026-001198",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.3146 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.1100"
+ },
+ {
+  "gt_id":"GT-000002",
+  "record_type":"orders",
+  "record_id":"ORD-2026-001685",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4551 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.0608"
+ },
+ {
+  "gt_id":"GT-000003",
+  "record_type":"orders",
+  "record_id":"ORD-2026-001946",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4189 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.2452"
+ },
+ {
+  "gt_id":"GT-000004",
+  "record_type":"orders",
+  "record_id":"ORD-2026-002023",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4021 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.2614"
+ },
+ {
+  "gt_id":"GT-000005",
+  "record_type":"orders",
+  "record_id":"ORD-2026-002079",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.3045 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.2605"
+ },
+ {
+  "gt_id":"GT-000006",
+  "record_type":"orders",
+  "record_id":"ORD-2026-002245",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4189 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.2452"
+ },
+ {
+  "gt_id":"GT-000007",
+  "record_type":"orders",
+  "record_id":"ORD-2026-002533",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4830 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.3692"
+ },
+ {
+  "gt_id":"GT-000008",
+  "record_type":"orders",
+  "record_id":"ORD-2026-002711",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.5026 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.2460"
+ },
+ {
+  "gt_id":"GT-000009",
+  "record_type":"orders",
+  "record_id":"ORD-2026-002862",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.3458 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.1393"
+ },
+ {
+  "gt_id":"GT-000010",
+  "record_type":"orders",
+  "record_id":"ORD-2026-003131",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.5031 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.3939"
+ },
+ {
+  "gt_id":"GT-000011",
+  "record_type":"orders",
+  "record_id":"ORD-2026-003271",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4572 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.0639"
+ },
+ {
+  "gt_id":"GT-000012",
+  "record_type":"orders",
+  "record_id":"ORD-2026-003642",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4472 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.2436"
+ },
+ {
+  "gt_id":"GT-000013",
+  "record_type":"orders",
+  "record_id":"ORD-2026-003703",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.3697 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.3222"
+ },
+ {
+  "gt_id":"GT-000014",
+  "record_type":"orders",
+  "record_id":"ORD-2026-003746",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4698 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.0859"
+ },
+ {
+  "gt_id":"GT-000015",
+  "record_type":"orders",
+  "record_id":"ORD-2026-003783",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4649 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.0762"
+ },
+ {
+  "gt_id":"GT-000016",
+  "record_type":"orders",
+  "record_id":"ORD-2026-004005",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.2716 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.1430"
+ },
+ {
+  "gt_id":"GT-000017",
+  "record_type":"orders",
+  "record_id":"ORD-2026-004325",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.3274 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.1150"
+ },
+ {
+  "gt_id":"GT-000018",
+  "record_type":"orders",
+  "record_id":"ORD-2026-004508",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4319 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.2986"
+ },
+ {
+  "gt_id":"GT-000019",
+  "record_type":"orders",
+  "record_id":"ORD-2026-004582",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4579 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.3696"
+ },
+ {
+  "gt_id":"GT-000020",
+  "record_type":"orders",
+  "record_id":"ORD-2026-004592",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4550 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.0598"
+ },
+ {
+  "gt_id":"GT-000021",
+  "record_type":"orders",
+  "record_id":"ORD-2026-004629",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4811 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.1051"
+ },
+ {
+  "gt_id":"GT-000022",
+  "record_type":"orders",
+  "record_id":"ORD-2026-004839",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4163 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.1891"
+ },
+ {
+  "gt_id":"GT-000023",
+  "record_type":"orders",
+  "record_id":"ORD-2026-004847",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.3697 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.1244"
+ },
+ {
+  "gt_id":"GT-000024",
+  "record_type":"orders",
+  "record_id":"ORD-2026-004911",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4472 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.2436"
+ },
+ {
+  "gt_id":"GT-000025",
+  "record_type":"orders",
+  "record_id":"ORD-2026-004936",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.5084 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.3163"
+ },
+ {
+  "gt_id":"GT-000026",
+  "record_type":"orders",
+  "record_id":"ORD-2026-004962",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.5084 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.3163"
+ },
+ {
+  "gt_id":"GT-000027",
+  "record_type":"orders",
+  "record_id":"ORD-2026-005052",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4550 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.0598"
+ },
+ {
+  "gt_id":"GT-000028",
+  "record_type":"orders",
+  "record_id":"ORD-2026-005066",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4550 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.0598"
+ },
+ {
+  "gt_id":"GT-000029",
+  "record_type":"orders",
+  "record_id":"ORD-2026-005087",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4707 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.2545"
+ },
+ {
+  "gt_id":"GT-000030",
+  "record_type":"orders",
+  "record_id":"ORD-2026-005242",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.3286 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.0800"
+ },
+ {
+  "gt_id":"GT-000031",
+  "record_type":"orders",
+  "record_id":"ORD-2026-005306",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.2634 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.1737"
+ },
+ {
+  "gt_id":"GT-000032",
+  "record_type":"orders",
+  "record_id":"ORD-2026-005348",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.5084 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.3163"
+ },
+ {
+  "gt_id":"GT-000033",
+  "record_type":"orders",
+  "record_id":"ORD-2026-005471",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.2931 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.1791"
+ },
+ {
+  "gt_id":"GT-000034",
+  "record_type":"orders",
+  "record_id":"ORD-2026-005519",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.5466 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.1754"
+ },
+ {
+  "gt_id":"GT-000035",
+  "record_type":"orders",
+  "record_id":"ORD-2026-005530",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.3721 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.1948"
+ },
+ {
+  "gt_id":"GT-000036",
+  "record_type":"orders",
+  "record_id":"ORD-2026-005633",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4556 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.0611"
+ },
+ {
+  "gt_id":"GT-000037",
+  "record_type":"orders",
+  "record_id":"ORD-2026-005657",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.5556 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.4312"
+ },
+ {
+  "gt_id":"GT-000038",
+  "record_type":"orders",
+  "record_id":"ORD-2026-005850",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4007 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.2779"
+ },
+ {
+  "gt_id":"GT-000039",
+  "record_type":"orders",
+  "record_id":"ORD-2026-005969",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.2917 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.0917"
+ },
+ {
+  "gt_id":"GT-000040",
+  "record_type":"orders",
+  "record_id":"ORD-2026-005995",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4163 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.1891"
+ },
+ {
+  "gt_id":"GT-000041",
+  "record_type":"orders",
+  "record_id":"ORD-2026-005998",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4298 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.2399"
+ },
+ {
+  "gt_id":"GT-000042",
+  "record_type":"orders",
+  "record_id":"ORD-2026-006016",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4698 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.0859"
+ },
+ {
+  "gt_id":"GT-000043",
+  "record_type":"orders",
+  "record_id":"ORD-2026-006032",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.5556 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.4312"
+ },
+ {
+  "gt_id":"GT-000044",
+  "record_type":"orders",
+  "record_id":"ORD-2026-006069",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4163 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.1891"
+ },
+ {
+  "gt_id":"GT-000045",
+  "record_type":"orders",
+  "record_id":"ORD-2026-006080",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.2917 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.0917"
+ },
+ {
+  "gt_id":"GT-000046",
+  "record_type":"orders",
+  "record_id":"ORD-2026-006099",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.3697 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.1244"
+ },
+ {
+  "gt_id":"GT-000047",
+  "record_type":"orders",
+  "record_id":"ORD-2026-006167",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.3333 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.0872"
+ },
+ {
+  "gt_id":"GT-000048",
+  "record_type":"orders",
+  "record_id":"ORD-2026-006413",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.3683 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.1485"
+ },
+ {
+  "gt_id":"GT-000049",
+  "record_type":"orders",
+  "record_id":"ORD-2026-006420",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4298 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.2399"
+ },
+ {
+  "gt_id":"GT-000050",
+  "record_type":"orders",
+  "record_id":"ORD-2026-006479",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4458 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.2301"
+ },
+ {
+  "gt_id":"GT-000051",
+  "record_type":"orders",
+  "record_id":"ORD-2026-006536",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4012 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.2703"
+ },
+ {
+  "gt_id":"GT-000052",
+  "record_type":"orders",
+  "record_id":"ORD-2026-006540",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4556 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.0611"
+ },
+ {
+  "gt_id":"GT-000053",
+  "record_type":"orders",
+  "record_id":"ORD-2026-006650",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.5641 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.1461"
+ },
+ {
+  "gt_id":"GT-000054",
+  "record_type":"orders",
+  "record_id":"ORD-2026-006673",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4325 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.2117"
+ },
+ {
+  "gt_id":"GT-000055",
+  "record_type":"orders",
+  "record_id":"ORD-2026-006792",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4117 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.1715"
+ },
+ {
+  "gt_id":"GT-000056",
+  "record_type":"orders",
+  "record_id":"ORD-2026-006808",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4930 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.2860"
+ },
+ {
+  "gt_id":"GT-000057",
+  "record_type":"orders",
+  "record_id":"ORD-2026-006884",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.5556 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.4312"
+ },
+ {
+  "gt_id":"GT-000058",
+  "record_type":"orders",
+  "record_id":"ORD-2026-006889",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.5084 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.3163"
+ },
+ {
+  "gt_id":"GT-000059",
+  "record_type":"orders",
+  "record_id":"ORD-2026-007213",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4522 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.3914"
+ },
+ {
+  "gt_id":"GT-000060",
+  "record_type":"orders",
+  "record_id":"ORD-2026-007230",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.3939 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.1578"
+ },
+ {
+  "gt_id":"GT-000061",
+  "record_type":"orders",
+  "record_id":"ORD-2026-007264",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4163 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.1891"
+ },
+ {
+  "gt_id":"GT-000062",
+  "record_type":"orders",
+  "record_id":"ORD-2026-007634",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4702 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.4119"
+ },
+ {
+  "gt_id":"GT-000063",
+  "record_type":"orders",
+  "record_id":"ORD-2026-007696",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.3129 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.2362"
+ },
+ {
+  "gt_id":"GT-000064",
+  "record_type":"orders",
+  "record_id":"ORD-2026-007739",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4625 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.1041"
+ },
+ {
+  "gt_id":"GT-000065",
+  "record_type":"orders",
+  "record_id":"ORD-2026-007764",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.5556 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.2575"
+ },
+ {
+  "gt_id":"GT-000066",
+  "record_type":"orders",
+  "record_id":"ORD-2026-007796",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4129 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.3478"
+ },
+ {
+  "gt_id":"GT-000067",
+  "record_type":"orders",
+  "record_id":"ORD-2026-007835",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4374 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.3748"
+ },
+ {
+  "gt_id":"GT-000068",
+  "record_type":"orders",
+  "record_id":"ORD-2026-007858",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.2917 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.0917"
+ },
+ {
+  "gt_id":"GT-000069",
+  "record_type":"orders",
+  "record_id":"ORD-2026-007870",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.5368 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.4223"
+ },
+ {
+  "gt_id":"GT-000070",
+  "record_type":"orders",
+  "record_id":"ORD-2026-007936",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4550 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.0762"
+ },
+ {
+  "gt_id":"GT-000071",
+  "record_type":"orders",
+  "record_id":"ORD-2026-007958",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.2407 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.1563"
+ },
+ {
+  "gt_id":"GT-000072",
+  "record_type":"orders",
+  "record_id":"ORD-2026-007987",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.5273 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.4750"
+ },
+ {
+  "gt_id":"GT-000073",
+  "record_type":"orders",
+  "record_id":"ORD-2026-008047",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4758 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.3229"
+ },
+ {
+  "gt_id":"GT-000074",
+  "record_type":"orders",
+  "record_id":"ORD-2026-008132",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4471 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.3858"
+ },
+ {
+  "gt_id":"GT-000075",
+  "record_type":"orders",
+  "record_id":"ORD-2026-008324",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4325 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.2117"
+ },
+ {
+  "gt_id":"GT-000076",
+  "record_type":"orders",
+  "record_id":"ORD-2026-008439",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.5395 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.3232"
+ },
+ {
+  "gt_id":"GT-000077",
+  "record_type":"orders",
+  "record_id":"ORD-2026-008468",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.3528 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.2810"
+ },
+ {
+  "gt_id":"GT-000078",
+  "record_type":"orders",
+  "record_id":"ORD-2026-008484",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4923 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.0776"
+ },
+ {
+  "gt_id":"GT-000079",
+  "record_type":"orders",
+  "record_id":"ORD-2026-008566",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4012 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.2785"
+ },
+ {
+  "gt_id":"GT-000080",
+  "record_type":"orders",
+  "record_id":"ORD-2026-008592",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.5618 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.2582"
+ },
+ {
+  "gt_id":"GT-000081",
+  "record_type":"orders",
+  "record_id":"ORD-2026-008601",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.5123 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.1865"
+ },
+ {
+  "gt_id":"GT-000082",
+  "record_type":"orders",
+  "record_id":"ORD-2026-008602",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4163 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.1891"
+ },
+ {
+  "gt_id":"GT-000083",
+  "record_type":"orders",
+  "record_id":"ORD-2026-008715",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4579 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.1527"
+ },
+ {
+  "gt_id":"GT-000084",
+  "record_type":"orders",
+  "record_id":"ORD-2026-008732",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4568 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.2857"
+ },
+ {
+  "gt_id":"GT-000085",
+  "record_type":"orders",
+  "record_id":"ORD-2026-008781",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4163 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.1891"
+ },
+ {
+  "gt_id":"GT-000086",
+  "record_type":"orders",
+  "record_id":"ORD-2026-008982",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.5218 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.3367"
+ },
+ {
+  "gt_id":"GT-000087",
+  "record_type":"orders",
+  "record_id":"ORD-2026-009037",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4159 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.2513"
+ },
+ {
+  "gt_id":"GT-000088",
+  "record_type":"orders",
+  "record_id":"ORD-2026-009198",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.5556 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.2575"
+ },
+ {
+  "gt_id":"GT-000089",
+  "record_type":"orders",
+  "record_id":"ORD-2026-009244",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.3468 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.2035"
+ },
+ {
+  "gt_id":"GT-000090",
+  "record_type":"orders",
+  "record_id":"ORD-2026-009477",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4544 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.0910"
+ },
+ {
+  "gt_id":"GT-000091",
+  "record_type":"orders",
+  "record_id":"ORD-2026-009721",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4702 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.1168"
+ },
+ {
+  "gt_id":"GT-000092",
+  "record_type":"orders",
+  "record_id":"ORD-2026-009892",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4331 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.3178"
+ },
+ {
+  "gt_id":"GT-000093",
+  "record_type":"orders",
+  "record_id":"ORD-2026-009924",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4702 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.1168"
+ },
+ {
+  "gt_id":"GT-000094",
+  "record_type":"orders",
+  "record_id":"ORD-2026-009933",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4832 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.1787"
+ },
+ {
+  "gt_id":"GT-000095",
+  "record_type":"orders",
+  "record_id":"ORD-2026-009960",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4380 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.2699"
+ },
+ {
+  "gt_id":"GT-000096",
+  "record_type":"orders",
+  "record_id":"ORD-2026-010201",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4759 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.1270"
+ },
+ {
+  "gt_id":"GT-000097",
+  "record_type":"orders",
+  "record_id":"ORD-2026-010244",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4889 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.0703"
+ },
+ {
+  "gt_id":"GT-000098",
+  "record_type":"orders",
+  "record_id":"ORD-2026-010301",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4460 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.1346"
+ },
+ {
+  "gt_id":"GT-000099",
+  "record_type":"orders",
+  "record_id":"ORD-2026-010346",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.3406 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.1548"
+ },
+ {
+  "gt_id":"GT-000100",
+  "record_type":"orders",
+  "record_id":"ORD-2026-010360",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.5118 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.1127"
+ },
+ {
+  "gt_id":"GT-000101",
+  "record_type":"orders",
+  "record_id":"ORD-2026-010500",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.4482 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.2836"
+ },
+ {
+  "gt_id":"GT-000102",
+  "record_type":"orders",
+  "record_id":"ORD-2026-010503",
+  "issue_type":"MARGIN_BEFORE_DISCOUNT",
+  "description":"margin_pct 0.2931 computed on list price before discount",
+  "expected_outcome":"margin_pct = (net - cost) \/ net = 0.0833"
+ },
+ {
+  "gt_id":"GT-000103",
+  "record_type":"price_decision",
+  "record_id":"DEC-2026-000139",
+  "issue_type":"PRICE_BELOW_FLOOR",
+  "description":"final_price 5.73 below price_floor 6.40; guardrail bypassed",
+  "expected_outcome":"final_price >= price_floor (guardrail FLOOR)"
+ },
+ {
+  "gt_id":"GT-000104",
+  "record_type":"price_decision",
+  "record_id":"DEC-2026-000564",
+  "issue_type":"PRICE_BELOW_FLOOR",
+  "description":"final_price 3.20 below price_floor 3.62; guardrail bypassed",
+  "expected_outcome":"final_price >= price_floor (guardrail FLOOR)"
+ },
+ {
+  "gt_id":"GT-000105",
+  "record_type":"price_decision",
+  "record_id":"DEC-2026-000718",
+  "issue_type":"PRICE_BELOW_FLOOR",
+  "description":"final_price 4.01 below price_floor 4.15; guardrail bypassed",
+  "expected_outcome":"final_price >= price_floor (guardrail FLOOR)"
+ },
+ {
+  "gt_id":"GT-000106",
+  "record_type":"price_decision",
+  "record_id":"DEC-2026-000808",
+  "issue_type":"PRICE_BELOW_FLOOR",
+  "description":"final_price 25.11 below price_floor 26.09; guardrail bypassed",
+  "expected_outcome":"final_price >= price_floor (guardrail FLOOR)"
+ },
+ {
+  "gt_id":"GT-000107",
+  "record_type":"price_decision",
+  "record_id":"DEC-2026-001296",
+  "issue_type":"PRICE_BELOW_FLOOR",
+  "description":"final_price 2.93 below price_floor 3.20; guardrail bypassed",
+  "expected_outcome":"final_price >= price_floor (guardrail FLOOR)"
+ },
+ {
+  "gt_id":"GT-000108",
+  "record_type":"price_decision",
+  "record_id":"DEC-2026-001486",
+  "issue_type":"PRICE_BELOW_FLOOR",
+  "description":"final_price 1.42 below price_floor 1.52; guardrail bypassed",
+  "expected_outcome":"final_price >= price_floor (guardrail FLOOR)"
+ },
+ {
+  "gt_id":"GT-000109",
+  "record_type":"price_decision",
+  "record_id":"DEC-2026-001529",
+  "issue_type":"PRICE_BELOW_FLOOR",
+  "description":"final_price 4.14 below price_floor 4.68; guardrail bypassed",
+  "expected_outcome":"final_price >= price_floor (guardrail FLOOR)"
+ },
+ {
+  "gt_id":"GT-000110",
+  "record_type":"price_decision",
+  "record_id":"DEC-2026-002057",
+  "issue_type":"PRICE_BELOW_FLOOR",
+  "description":"final_price 8.13 below price_floor 9.14; guardrail bypassed",
+  "expected_outcome":"final_price >= price_floor (guardrail FLOOR)"
+ },
+ {
+  "gt_id":"GT-000111",
+  "record_type":"price_decision",
+  "record_id":"DEC-2026-002121",
+  "issue_type":"PRICE_BELOW_FLOOR",
+  "description":"final_price 4.51 below price_floor 5.18; guardrail bypassed",
+  "expected_outcome":"final_price >= price_floor (guardrail FLOOR)"
+ },
+ {
+  "gt_id":"GT-000112",
+  "record_type":"price_history",
+  "record_id":"PRC-SKU-000028-20260127",
+  "issue_type":"PRICE_CHANGE_LACKS_REASON",
+  "description":"manual price override without decision_id or change_reason",
+  "expected_outcome":"every price change references a decision_id and change_reason"
+ },
+ {
+  "gt_id":"GT-000113",
+  "record_type":"price_history",
+  "record_id":"PRC-SKU-000036-20260202",
+  "issue_type":"PRICE_CHANGE_LACKS_REASON",
+  "description":"manual price override without decision_id or change_reason",
+  "expected_outcome":"every price change references a decision_id and change_reason"
+ },
+ {
+  "gt_id":"GT-000114",
+  "record_type":"price_history",
+  "record_id":"PRC-SKU-000299-20260208",
+  "issue_type":"PRICE_CHANGE_LACKS_REASON",
+  "description":"manual price override without decision_id or change_reason",
+  "expected_outcome":"every price change references a decision_id and change_reason"
+ },
+ {
+  "gt_id":"GT-000115",
+  "record_type":"orders",
+  "record_id":"ORD-2026-001327",
+  "issue_type":"PROMOTION_STACK_VIOLATION",
+  "description":"prohibited stack COUPON+COUPON applied",
+  "expected_outcome":"apply at most one promo per exclusive group (best discount wins)"
+ },
+ {
+  "gt_id":"GT-000116",
+  "record_type":"orders",
+  "record_id":"ORD-2026-001865",
+  "issue_type":"PROMOTION_STACK_VIOLATION",
+  "description":"prohibited stack COUPON+COUPON applied",
+  "expected_outcome":"apply at most one promo per exclusive group (best discount wins)"
+ },
+ {
+  "gt_id":"GT-000117",
+  "record_type":"orders",
+  "record_id":"ORD-2026-002823",
+  "issue_type":"PROMOTION_STACK_VIOLATION",
+  "description":"prohibited stack CLEARANCE+COUPON applied",
+  "expected_outcome":"apply at most one promo per exclusive group (best discount wins)"
+ },
+ {
+  "gt_id":"GT-000118",
+  "record_type":"orders",
+  "record_id":"ORD-2026-003525",
+  "issue_type":"PROMOTION_STACK_VIOLATION",
+  "description":"prohibited stack CLEARANCE+COUPON applied",
+  "expected_outcome":"apply at most one promo per exclusive group (best discount wins)"
+ },
+ {
+  "gt_id":"GT-000119",
+  "record_type":"orders",
+  "record_id":"ORD-2026-003570",
+  "issue_type":"PROMOTION_STACK_VIOLATION",
+  "description":"prohibited stack CLEARANCE+COUPON applied",
+  "expected_outcome":"apply at most one promo per exclusive group (best discount wins)"
+ },
+ {
+  "gt_id":"GT-000120",
+  "record_type":"orders",
+  "record_id":"ORD-2026-003932",
+  "issue_type":"PROMOTION_STACK_VIOLATION",
+  "description":"prohibited stack COUPON+COUPON applied",
+  "expected_outcome":"apply at most one promo per exclusive group (best discount wins)"
+ },
+ {
+  "gt_id":"GT-000121",
+  "record_type":"orders",
+  "record_id":"ORD-2026-003951",
+  "issue_type":"PROMOTION_STACK_VIOLATION",
+  "description":"prohibited stack COUPON+COUPON applied",
+  "expected_outcome":"apply at most one promo per exclusive group (best discount wins)"
+ },
+ {
+  "gt_id":"GT-000122",
+  "record_type":"orders",
+  "record_id":"ORD-2026-003979",
+  "issue_type":"PROMOTION_STACK_VIOLATION",
+  "description":"prohibited stack CLEARANCE+COUPON applied",
+  "expected_outcome":"apply at most one promo per exclusive group (best discount wins)"
+ },
+ {
+  "gt_id":"GT-000123",
+  "record_type":"orders",
+  "record_id":"ORD-2026-004031",
+  "issue_type":"PROMOTION_STACK_VIOLATION",
+  "description":"prohibited stack COUPON+COUPON applied",
+  "expected_outcome":"apply at most one promo per exclusive group (best discount wins)"
+ },
+ {
+  "gt_id":"GT-000124",
+  "record_type":"orders",
+  "record_id":"ORD-2026-004102",
+  "issue_type":"PROMOTION_STACK_VIOLATION",
+  "description":"prohibited stack CLEARANCE+COUPON applied",
+  "expected_outcome":"apply at most one promo per exclusive group (best discount wins)"
+ },
+ {
+  "gt_id":"GT-000125",
+  "record_type":"orders",
+  "record_id":"ORD-2026-004536",
+  "issue_type":"PROMOTION_STACK_VIOLATION",
+  "description":"prohibited stack COUPON+COUPON applied",
+  "expected_outcome":"apply at most one promo per exclusive group (best discount wins)"
+ },
+ {
+  "gt_id":"GT-000126",
+  "record_type":"orders",
+  "record_id":"ORD-2026-004597",
+  "issue_type":"PROMOTION_STACK_VIOLATION",
+  "description":"prohibited stack COUPON+COUPON applied",
+  "expected_outcome":"apply at most one promo per exclusive group (best discount wins)"
+ },
+ {
+  "gt_id":"GT-000127",
+  "record_type":"orders",
+  "record_id":"ORD-2026-004627",
+  "issue_type":"PROMOTION_STACK_VIOLATION",
+  "description":"prohibited stack COUPON+COUPON applied",
+  "expected_outcome":"apply at most one promo per exclusive group (best discount wins)"
+ },
+ {
+  "gt_id":"GT-000128",
+  "record_type":"orders",
+  "record_id":"ORD-2026-004632",
+  "issue_type":"PROMOTION_STACK_VIOLATION",
+  "description":"prohibited stack CLEARANCE+COUPON applied",
+  "expected_outcome":"apply at most one promo per exclusive group (best discount wins)"
+ },
+ {
+  "gt_id":"GT-000129",
+  "record_type":"orders",
+  "record_id":"ORD-2026-004634",
+  "issue_type":"PROMOTION_STACK_VIOLATION",
+  "description":"prohibited stack CLEARANCE+COUPON applied",
+  "expected_outcome":"apply at most one promo per exclusive group (best discount wins)"
+ },
+ {
+  "gt_id":"GT-000130",
+  "record_type":"orders",
+  "record_id":"ORD-2026-004702",
+  "issue_type":"PROMOTION_STACK_VIOLATION",
+  "description":"prohibited stack CLEARANCE+COUPON applied",
+  "expected_outcome":"apply at most one promo per exclusive group (best discount wins)"
+ },
+ {
+  "gt_id":"GT-000131",
+  "record_type":"orders",
+  "record_id":"ORD-2026-004706",
+  "issue_type":"PROMOTION_STACK_VIOLATION",
+  "description":"prohibited stack COUPON+COUPON applied",
+  "expected_outcome":"apply at most one promo per exclusive group (best discount wins)"
+ },
+ {
+  "gt_id":"GT-000132",
+  "record_type":"orders",
+  "record_id":"ORD-2026-004715",
+  "issue_type":"PROMOTION_STACK_VIOLATION",
+  "description":"prohibited stack COUPON+COUPON applied",
+  "expected_outcome":"apply at most one promo per exclusive group (best discount wins)"
+ },
+ {
+  "gt_id":"GT-000133",
+  "record_type":"orders",
+  "record_id":"ORD-2026-004902",
+  "issue_type":"PROMOTION_STACK_VIOLATION",
+  "description":"prohibited stack CLEARANCE+COUPON applied",
+  "expected_outcome":"apply at most one promo per exclusive group (best discount wins)"
+ },
+ {
+  "gt_id":"GT-000134",
+  "record_type":"orders",
+  "record_id":"ORD-2026-004953",
+  "issue_type":"PROMOTION_STACK_VIOLATION",
+  "description":"prohibited stack CLEARANCE+COUPON applied",
+  "expected_outcome":"apply at most one promo per exclusive group (best discount wins)"
+ },
+ {
+  "gt_id":"GT-000135",
+  "record_type":"orders",
+  "record_id":"ORD-2026-005033",
+  "issue_type":"PROMOTION_STACK_VIOLATION",
+  "description":"prohibited stack CLEARANCE+COUPON applied",
+  "expected_outcome":"apply at most one promo per exclusive group (best discount wins)"
+ },
+ {
+  "gt_id":"GT-000136",
+  "record_type":"orders",
+  "record_id":"ORD-2026-005204",
+  "issue_type":"PROMOTION_STACK_VIOLATION",
+  "description":"prohibited stack CLEARANCE+COUPON applied",
+  "expected_outcome":"apply at most one promo per exclusive group (best discount wins)"
+ },
+ {
+  "gt_id":"GT-000137",
+  "record_type":"orders",
+  "record_id":"ORD-2026-005514",
+  "issue_type":"PROMOTION_STACK_VIOLATION",
+  "description":"prohibited stack CLEARANCE+COUPON applied",
+  "expected_outcome":"apply at most one promo per exclusive group (best discount wins)"
+ },
+ {
+  "gt_id":"GT-000138",
+  "record_type":"orders",
+  "record_id":"ORD-2026-005943",
+  "issue_type":"PROMOTION_STACK_VIOLATION",
+  "description":"prohibited stack CLEARANCE+COUPON applied",
+  "expected_outcome":"apply at most one promo per exclusive group (best discount wins)"
+ },
+ {
+  "gt_id":"GT-000139",
+  "record_type":"orders",
+  "record_id":"ORD-2026-006187",
+  "issue_type":"PROMOTION_STACK_VIOLATION",
+  "description":"prohibited stack COUPON+COUPON applied",
+  "expected_outcome":"apply at most one promo per exclusive group (best discount wins)"
+ },
+ {
+  "gt_id":"GT-000140",
+  "record_type":"orders",
+  "record_id":"ORD-2026-006618",
+  "issue_type":"PROMOTION_STACK_VIOLATION",
+  "description":"prohibited stack COUPON+COUPON applied",
+  "expected_outcome":"apply at most one promo per exclusive group (best discount wins)"
+ },
+ {
+  "gt_id":"GT-000141",
+  "record_type":"orders",
+  "record_id":"ORD-2026-007430",
+  "issue_type":"PROMOTION_STACK_VIOLATION",
+  "description":"prohibited stack CLEARANCE+COUPON applied",
+  "expected_outcome":"apply at most one promo per exclusive group (best discount wins)"
+ },
+ {
+  "gt_id":"GT-000142",
+  "record_type":"orders",
+  "record_id":"ORD-2026-007868",
+  "issue_type":"PROMOTION_STACK_VIOLATION",
+  "description":"prohibited stack CLEARANCE+COUPON applied",
+  "expected_outcome":"apply at most one promo per exclusive group (best discount wins)"
+ },
+ {
+  "gt_id":"GT-000143",
+  "record_type":"orders",
+  "record_id":"ORD-2026-008068",
+  "issue_type":"PROMOTION_STACK_VIOLATION",
+  "description":"prohibited stack CLEARANCE+COUPON applied",
+  "expected_outcome":"apply at most one promo per exclusive group (best discount wins)"
+ },
+ {
+  "gt_id":"GT-000144",
+  "record_type":"orders",
+  "record_id":"ORD-2026-008148",
+  "issue_type":"PROMOTION_STACK_VIOLATION",
+  "description":"prohibited stack CLEARANCE+COUPON applied",
+  "expected_outcome":"apply at most one promo per exclusive group (best discount wins)"
+ },
+ {
+  "gt_id":"GT-000145",
+  "record_type":"orders",
+  "record_id":"ORD-2026-008256",
+  "issue_type":"PROMOTION_STACK_VIOLATION",
+  "description":"prohibited stack CLEARANCE+COUPON applied",
+  "expected_outcome":"apply at most one promo per exclusive group (best discount wins)"
+ },
+ {
+  "gt_id":"GT-000146",
+  "record_type":"orders",
+  "record_id":"ORD-2026-008613",
+  "issue_type":"PROMOTION_STACK_VIOLATION",
+  "description":"prohibited stack COUPON+COUPON applied",
+  "expected_outcome":"apply at most one promo per exclusive group (best discount wins)"
+ },
+ {
+  "gt_id":"GT-000147",
+  "record_type":"orders",
+  "record_id":"ORD-2026-009034",
+  "issue_type":"PROMOTION_STACK_VIOLATION",
+  "description":"prohibited stack CLEARANCE+COUPON applied",
+  "expected_outcome":"apply at most one promo per exclusive group (best discount wins)"
+ },
+ {
+  "gt_id":"GT-000148",
+  "record_type":"orders",
+  "record_id":"ORD-2026-009092",
+  "issue_type":"PROMOTION_STACK_VIOLATION",
+  "description":"prohibited stack CLEARANCE+COUPON applied",
+  "expected_outcome":"apply at most one promo per exclusive group (best discount wins)"
+ },
+ {
+  "gt_id":"GT-000149",
+  "record_type":"orders",
+  "record_id":"ORD-2026-009652",
+  "issue_type":"PROMOTION_STACK_VIOLATION",
+  "description":"prohibited stack CLEARANCE+COUPON applied",
+  "expected_outcome":"apply at most one promo per exclusive group (best discount wins)"
+ },
+ {
+  "gt_id":"GT-000150",
+  "record_type":"price_decision",
+  "record_id":"DEC-2026-000038",
+  "issue_type":"STALE_OBSERVATION_AS_CURRENT",
+  "description":"observation OBS-2026-000490 aged 107.5h (> 96h) used as current",
+  "expected_outcome":"ignore stale observation; exception STALE_COMPETITOR_IGNORED"
+ },
+ {
+  "gt_id":"GT-000151",
+  "record_type":"price_decision",
+  "record_id":"DEC-2026-000080",
+  "issue_type":"STALE_OBSERVATION_AS_CURRENT",
+  "description":"observation OBS-2026-000665 aged 185.0h (> 96h) used as current",
+  "expected_outcome":"ignore stale observation; exception STALE_COMPETITOR_IGNORED"
+ },
+ {
+  "gt_id":"GT-000152",
+  "record_type":"price_decision",
+  "record_id":"DEC-2026-000104",
+  "issue_type":"STALE_OBSERVATION_AS_CURRENT",
+  "description":"observation OBS-2026-000137 aged 149.9h (> 96h) used as current",
+  "expected_outcome":"ignore stale observation; exception STALE_COMPETITOR_IGNORED"
+ },
+ {
+  "gt_id":"GT-000153",
+  "record_type":"price_decision",
+  "record_id":"DEC-2026-000466",
+  "issue_type":"STALE_OBSERVATION_AS_CURRENT",
+  "description":"observation OBS-2026-001687 aged 109.8h (> 96h) used as current",
+  "expected_outcome":"ignore stale observation; exception STALE_COMPETITOR_IGNORED"
+ },
+ {
+  "gt_id":"GT-000154",
+  "record_type":"price_decision",
+  "record_id":"DEC-2026-000522",
+  "issue_type":"STALE_OBSERVATION_AS_CURRENT",
+  "description":"observation OBS-2026-001951 aged 165.5h (> 96h) used as current",
+  "expected_outcome":"ignore stale observation; exception STALE_COMPETITOR_IGNORED"
+ },
+ {
+  "gt_id":"GT-000155",
+  "record_type":"price_decision",
+  "record_id":"DEC-2026-000651",
+  "issue_type":"STALE_OBSERVATION_AS_CURRENT",
+  "description":"observation OBS-2026-002700 aged 128.8h (> 96h) used as current",
+  "expected_outcome":"ignore stale observation; exception STALE_COMPETITOR_IGNORED"
+ },
+ {
+  "gt_id":"GT-000156",
+  "record_type":"price_decision",
+  "record_id":"DEC-2026-000663",
+  "issue_type":"STALE_OBSERVATION_AS_CURRENT",
+  "description":"observation OBS-2026-002531 aged 150.8h (> 96h) used as current",
+  "expected_outcome":"ignore stale observation; exception STALE_COMPETITOR_IGNORED"
+ },
+ {
+  "gt_id":"GT-000157",
+  "record_type":"price_decision",
+  "record_id":"DEC-2026-000687",
+  "issue_type":"STALE_OBSERVATION_AS_CURRENT",
+  "description":"observation OBS-2026-002844 aged 103.0h (> 96h) used as current",
+  "expected_outcome":"ignore stale observation; exception STALE_COMPETITOR_IGNORED"
+ },
+ {
+  "gt_id":"GT-000158",
+  "record_type":"price_decision",
+  "record_id":"DEC-2026-000798",
+  "issue_type":"STALE_OBSERVATION_AS_CURRENT",
+  "description":"observation OBS-2026-002543 aged 151.1h (> 96h) used as current",
+  "expected_outcome":"ignore stale observation; exception STALE_COMPETITOR_IGNORED"
+ },
+ {
+  "gt_id":"GT-000159",
+  "record_type":"price_decision",
+  "record_id":"DEC-2026-001042",
+  "issue_type":"STALE_OBSERVATION_AS_CURRENT",
+  "description":"observation OBS-2026-003892 aged 126.4h (> 96h) used as current",
+  "expected_outcome":"ignore stale observation; exception STALE_COMPETITOR_IGNORED"
+ },
+ {
+  "gt_id":"GT-000160",
+  "record_type":"price_decision",
+  "record_id":"DEC-2026-001231",
+  "issue_type":"STALE_OBSERVATION_AS_CURRENT",
+  "description":"observation OBS-2026-004442 aged 124.4h (> 96h) used as current",
+  "expected_outcome":"ignore stale observation; exception STALE_COMPETITOR_IGNORED"
+ },
+ {
+  "gt_id":"GT-000161",
+  "record_type":"price_decision",
+  "record_id":"DEC-2026-001461",
+  "issue_type":"STALE_OBSERVATION_AS_CURRENT",
+  "description":"observation OBS-2026-005583 aged 346.5h (> 96h) used as current",
+  "expected_outcome":"ignore stale observation; exception STALE_COMPETITOR_IGNORED"
+ },
+ {
+  "gt_id":"GT-000162",
+  "record_type":"price_decision",
+  "record_id":"DEC-2026-001509",
+  "issue_type":"STALE_OBSERVATION_AS_CURRENT",
+  "description":"observation OBS-2026-004961 aged 153.5h (> 96h) used as current",
+  "expected_outcome":"ignore stale observation; exception STALE_COMPETITOR_IGNORED"
+ },
+ {
+  "gt_id":"GT-000163",
+  "record_type":"price_decision",
+  "record_id":"DEC-2026-002152",
+  "issue_type":"STALE_OBSERVATION_AS_CURRENT",
+  "description":"observation OBS-2026-008921 aged 96.2h (> 96h) used as current",
+  "expected_outcome":"ignore stale observation; exception STALE_COMPETITOR_IGNORED"
+ },
+ {
+  "gt_id":"GT-000164",
+  "record_type":"price_decision",
+  "record_id":"DEC-2026-002201",
+  "issue_type":"STALE_OBSERVATION_AS_CURRENT",
+  "description":"observation OBS-2026-008838 aged 99.0h (> 96h) used as current",
+  "expected_outcome":"ignore stale observation; exception STALE_COMPETITOR_IGNORED"
+ },
+ {
+  "gt_id":"GT-000165",
+  "record_type":"price_decision",
+  "record_id":"DEC-2026-002392",
+  "issue_type":"STALE_OBSERVATION_AS_CURRENT",
+  "description":"observation OBS-2026-008815 aged 112.6h (> 96h) used as current",
+  "expected_outcome":"ignore stale observation; exception STALE_COMPETITOR_IGNORED"
+ },
+ {
+  "gt_id":"GT-000166",
+  "record_type":"price_decision",
+  "record_id":"DEC-2026-002406",
+  "issue_type":"STALE_OBSERVATION_AS_CURRENT",
+  "description":"observation OBS-2026-007805 aged 258.2h (> 96h) used as current",
+  "expected_outcome":"ignore stale observation; exception STALE_COMPETITOR_IGNORED"
+ },
+ {
+  "gt_id":"GT-000167",
+  "record_type":"price_decision",
+  "record_id":"DEC-2026-002433",
+  "issue_type":"STALE_OBSERVATION_AS_CURRENT",
+  "description":"observation OBS-2026-008655 aged 120.7h (> 96h) used as current",
+  "expected_outcome":"ignore stale observation; exception STALE_COMPETITOR_IGNORED"
+ },
+ {
+  "gt_id":"GT-000168",
+  "record_type":"price_decision",
+  "record_id":"DEC-2026-002438",
+  "issue_type":"STALE_OBSERVATION_AS_CURRENT",
+  "description":"observation OBS-2026-008657 aged 125.1h (> 96h) used as current",
+  "expected_outcome":"ignore stale observation; exception STALE_COMPETITOR_IGNORED"
+ }
+]

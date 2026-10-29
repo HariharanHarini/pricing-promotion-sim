@@ -1,0 +1,116 @@
+{
+  "scale": {
+    "skus": 300,
+    "days": 60,
+    "price_days": 18000,
+    "decisions": 2498,
+    "orders": 10625,
+    "units": 13193,
+    "promotions": 100,
+    "competitor_observations": 10138
+  },
+  "commercial": {
+    "net_revenue": 189699.61,
+    "gross_margin": 57777.13,
+    "gross_margin_pct": 0.3046,
+    "avg_discount_rate": 0.1379,
+    "promo_penetration_orders": 0.5502,
+    "orders_below_product_min_margin": {
+      "total": 1977,
+      "clearance_5pct_rule": 1933,
+      "stack_violation": 27,
+      "list_price_below_floor": 35,
+      "unexplained": 0
+    }
+  },
+  "availability": {
+    "stockout_sku_day_rate": 0.0238,
+    "unfulfilled_unit_rate": 0.0347,
+    "skus_with_any_stockout": 88
+  },
+  "pricing": {
+    "decisions_applied": 862,
+    "guardrail_counts": {
+      "NONE": 2443,
+      "MAX_STEP": 47,
+      "FLOOR": 8
+    },
+    "reason_counts": {
+      "HOLD_NO_SIGNAL": 1567,
+      "COMPETITOR_MATCH": 419,
+      "OVERSTOCK_MARKDOWN": 208,
+      "LOW_STOCK_INCREASE": 188,
+      "STOCKOUT_HOLD": 69,
+      "COST_PASS_THROUGH": 46,
+      "FLOOR_ENFORCEMENT": 1
+    },
+    "exception_counts": {
+      "STALE_COMPETITOR_IGNORED": 159,
+      "STOCKOUT_HOLD": 70,
+      "COMPETITOR_OUT_OF_STOCK": 25
+    },
+    "price_change_days": 865,
+    "competitor_price_index_at_decision": 0.9905,
+    "stale_competitor_share_of_decisions": 0.0637
+  },
+  "promotions": {
+    "status_counts": {
+      "ENDED": 67,
+      "ACTIVE": 30,
+      "CANCELLED": 3
+    },
+    "type_counts": {
+      "COUPON": 40,
+      "CLEARANCE": 34,
+      "CATEGORY": 25,
+      "SITEWIDE": 1
+    }
+  },
+  "anomaly_detection": {
+    "PRICE_BELOW_FLOOR": {
+      "injected": 9,
+      "detected": 9,
+      "true_pos": 9,
+      "false_pos": 0,
+      "false_neg": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "PROMOTION_STACK_VIOLATION": {
+      "injected": 35,
+      "detected": 35,
+      "true_pos": 35,
+      "false_pos": 0,
+      "false_neg": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "STALE_OBSERVATION_AS_CURRENT": {
+      "injected": 19,
+      "detected": 19,
+      "true_pos": 19,
+      "false_pos": 0,
+      "false_neg": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "MARGIN_BEFORE_DISCOUNT": {
+      "injected": 102,
+      "detected": 102,
+      "true_pos": 102,
+      "false_pos": 0,
+      "false_neg": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "PRICE_CHANGE_LACKS_REASON": {
+      "injected": 3,
+      "detected": 3,
+      "true_pos": 3,
+      "false_pos": 0,
+      "false_neg": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    }
+  }
+}

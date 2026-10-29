@@ -1,0 +1,169 @@
+gt_id,record_type,record_id,issue_type,description,expected_outcome
+GT-000001,orders,ORD-2026-001198,MARGIN_BEFORE_DISCOUNT,margin_pct 0.3146 computed on list price before discount,margin_pct = (net - cost) / net = 0.1100
+GT-000002,orders,ORD-2026-001685,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4551 computed on list price before discount,margin_pct = (net - cost) / net = 0.0608
+GT-000003,orders,ORD-2026-001946,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4189 computed on list price before discount,margin_pct = (net - cost) / net = 0.2452
+GT-000004,orders,ORD-2026-002023,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4021 computed on list price before discount,margin_pct = (net - cost) / net = 0.2614
+GT-000005,orders,ORD-2026-002079,MARGIN_BEFORE_DISCOUNT,margin_pct 0.3045 computed on list price before discount,margin_pct = (net - cost) / net = 0.2605
+GT-000006,orders,ORD-2026-002245,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4189 computed on list price before discount,margin_pct = (net - cost) / net = 0.2452
+GT-000007,orders,ORD-2026-002533,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4830 computed on list price before discount,margin_pct = (net - cost) / net = 0.3692
+GT-000008,orders,ORD-2026-002711,MARGIN_BEFORE_DISCOUNT,margin_pct 0.5026 computed on list price before discount,margin_pct = (net - cost) / net = 0.2460
+GT-000009,orders,ORD-2026-002862,MARGIN_BEFORE_DISCOUNT,margin_pct 0.3458 computed on list price before discount,margin_pct = (net - cost) / net = 0.1393
+GT-000010,orders,ORD-2026-003131,MARGIN_BEFORE_DISCOUNT,margin_pct 0.5031 computed on list price before discount,margin_pct = (net - cost) / net = 0.3939
+GT-000011,orders,ORD-2026-003271,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4572 computed on list price before discount,margin_pct = (net - cost) / net = 0.0639
+GT-000012,orders,ORD-2026-003642,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4472 computed on list price before discount,margin_pct = (net - cost) / net = 0.2436
+GT-000013,orders,ORD-2026-003703,MARGIN_BEFORE_DISCOUNT,margin_pct 0.3697 computed on list price before discount,margin_pct = (net - cost) / net = 0.3222
+GT-000014,orders,ORD-2026-003746,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4698 computed on list price before discount,margin_pct = (net - cost) / net = 0.0859
+GT-000015,orders,ORD-2026-003783,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4649 computed on list price before discount,margin_pct = (net - cost) / net = 0.0762
+GT-000016,orders,ORD-2026-004005,MARGIN_BEFORE_DISCOUNT,margin_pct 0.2716 computed on list price before discount,margin_pct = (net - cost) / net = 0.1430
+GT-000017,orders,ORD-2026-004325,MARGIN_BEFORE_DISCOUNT,margin_pct 0.3274 computed on list price before discount,margin_pct = (net - cost) / net = 0.1150
+GT-000018,orders,ORD-2026-004508,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4319 computed on list price before discount,margin_pct = (net - cost) / net = 0.2986
+GT-000019,orders,ORD-2026-004582,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4579 computed on list price before discount,margin_pct = (net - cost) / net = 0.3696
+GT-000020,orders,ORD-2026-004592,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4550 computed on list price before discount,margin_pct = (net - cost) / net = 0.0598
+GT-000021,orders,ORD-2026-004629,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4811 computed on list price before discount,margin_pct = (net - cost) / net = 0.1051
+GT-000022,orders,ORD-2026-004839,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4163 computed on list price before discount,margin_pct = (net - cost) / net = 0.1891
+GT-000023,orders,ORD-2026-004847,MARGIN_BEFORE_DISCOUNT,margin_pct 0.3697 computed on list price before discount,margin_pct = (net - cost) / net = 0.1244
+GT-000024,orders,ORD-2026-004911,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4472 computed on list price before discount,margin_pct = (net - cost) / net = 0.2436
+GT-000025,orders,ORD-2026-004936,MARGIN_BEFORE_DISCOUNT,margin_pct 0.5084 computed on list price before discount,margin_pct = (net - cost) / net = 0.3163
+GT-000026,orders,ORD-2026-004962,MARGIN_BEFORE_DISCOUNT,margin_pct 0.5084 computed on list price before discount,margin_pct = (net - cost) / net = 0.3163
+GT-000027,orders,ORD-2026-005052,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4550 computed on list price before discount,margin_pct = (net - cost) / net = 0.0598
+GT-000028,orders,ORD-2026-005066,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4550 computed on list price before discount,margin_pct = (net - cost) / net = 0.0598
+GT-000029,orders,ORD-2026-005087,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4707 computed on list price before discount,margin_pct = (net - cost) / net = 0.2545
+GT-000030,orders,ORD-2026-005242,MARGIN_BEFORE_DISCOUNT,margin_pct 0.3286 computed on list price before discount,margin_pct = (net - cost) / net = 0.0800
+GT-000031,orders,ORD-2026-005306,MARGIN_BEFORE_DISCOUNT,margin_pct 0.2634 computed on list price before discount,margin_pct = (net - cost) / net = 0.1737
+GT-000032,orders,ORD-2026-005348,MARGIN_BEFORE_DISCOUNT,margin_pct 0.5084 computed on list price before discount,margin_pct = (net - cost) / net = 0.3163
+GT-000033,orders,ORD-2026-005471,MARGIN_BEFORE_DISCOUNT,margin_pct 0.2931 computed on list price before discount,margin_pct = (net - cost) / net = 0.1791
+GT-000034,orders,ORD-2026-005519,MARGIN_BEFORE_DISCOUNT,margin_pct 0.5466 computed on list price before discount,margin_pct = (net - cost) / net = 0.1754
+GT-000035,orders,ORD-2026-005530,MARGIN_BEFORE_DISCOUNT,margin_pct 0.3721 computed on list price before discount,margin_pct = (net - cost) / net = 0.1948
+GT-000036,orders,ORD-2026-005633,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4556 computed on list price before discount,margin_pct = (net - cost) / net = 0.0611
+GT-000037,orders,ORD-2026-005657,MARGIN_BEFORE_DISCOUNT,margin_pct 0.5556 computed on list price before discount,margin_pct = (net - cost) / net = 0.4312
+GT-000038,orders,ORD-2026-005850,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4007 computed on list price before discount,margin_pct = (net - cost) / net = 0.2779
+GT-000039,orders,ORD-2026-005969,MARGIN_BEFORE_DISCOUNT,margin_pct 0.2917 computed on list price before discount,margin_pct = (net - cost) / net = 0.0917
+GT-000040,orders,ORD-2026-005995,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4163 computed on list price before discount,margin_pct = (net - cost) / net = 0.1891
+GT-000041,orders,ORD-2026-005998,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4298 computed on list price before discount,margin_pct = (net - cost) / net = 0.2399
+GT-000042,orders,ORD-2026-006016,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4698 computed on list price before discount,margin_pct = (net - cost) / net = 0.0859
+GT-000043,orders,ORD-2026-006032,MARGIN_BEFORE_DISCOUNT,margin_pct 0.5556 computed on list price before discount,margin_pct = (net - cost) / net = 0.4312
+GT-000044,orders,ORD-2026-006069,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4163 computed on list price before discount,margin_pct = (net - cost) / net = 0.1891
+GT-000045,orders,ORD-2026-006080,MARGIN_BEFORE_DISCOUNT,margin_pct 0.2917 computed on list price before discount,margin_pct = (net - cost) / net = 0.0917
+GT-000046,orders,ORD-2026-006099,MARGIN_BEFORE_DISCOUNT,margin_pct 0.3697 computed on list price before discount,margin_pct = (net - cost) / net = 0.1244
+GT-000047,orders,ORD-2026-006167,MARGIN_BEFORE_DISCOUNT,margin_pct 0.3333 computed on list price before discount,margin_pct = (net - cost) / net = 0.0872
+GT-000048,orders,ORD-2026-006413,MARGIN_BEFORE_DISCOUNT,margin_pct 0.3683 computed on list price before discount,margin_pct = (net - cost) / net = 0.1485
+GT-000049,orders,ORD-2026-006420,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4298 computed on list price before discount,margin_pct = (net - cost) / net = 0.2399
+GT-000050,orders,ORD-2026-006479,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4458 computed on list price before discount,margin_pct = (net - cost) / net = 0.2301
+GT-000051,orders,ORD-2026-006536,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4012 computed on list price before discount,margin_pct = (net - cost) / net = 0.2703
+GT-000052,orders,ORD-2026-006540,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4556 computed on list price before discount,margin_pct = (net - cost) / net = 0.0611
+GT-000053,orders,ORD-2026-006650,MARGIN_BEFORE_DISCOUNT,margin_pct 0.5641 computed on list price before discount,margin_pct = (net - cost) / net = 0.1461
+GT-000054,orders,ORD-2026-006673,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4325 computed on list price before discount,margin_pct = (net - cost) / net = 0.2117
+GT-000055,orders,ORD-2026-006792,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4117 computed on list price before discount,margin_pct = (net - cost) / net = 0.1715
+GT-000056,orders,ORD-2026-006808,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4930 computed on list price before discount,margin_pct = (net - cost) / net = 0.2860
+GT-000057,orders,ORD-2026-006884,MARGIN_BEFORE_DISCOUNT,margin_pct 0.5556 computed on list price before discount,margin_pct = (net - cost) / net = 0.4312
+GT-000058,orders,ORD-2026-006889,MARGIN_BEFORE_DISCOUNT,margin_pct 0.5084 computed on list price before discount,margin_pct = (net - cost) / net = 0.3163
+GT-000059,orders,ORD-2026-007213,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4522 computed on list price before discount,margin_pct = (net - cost) / net = 0.3914
+GT-000060,orders,ORD-2026-007230,MARGIN_BEFORE_DISCOUNT,margin_pct 0.3939 computed on list price before discount,margin_pct = (net - cost) / net = 0.1578
+GT-000061,orders,ORD-2026-007264,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4163 computed on list price before discount,margin_pct = (net - cost) / net = 0.1891
+GT-000062,orders,ORD-2026-007634,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4702 computed on list price before discount,margin_pct = (net - cost) / net = 0.4119
+GT-000063,orders,ORD-2026-007696,MARGIN_BEFORE_DISCOUNT,margin_pct 0.3129 computed on list price before discount,margin_pct = (net - cost) / net = 0.2362
+GT-000064,orders,ORD-2026-007739,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4625 computed on list price before discount,margin_pct = (net - cost) / net = 0.1041
+GT-000065,orders,ORD-2026-007764,MARGIN_BEFORE_DISCOUNT,margin_pct 0.5556 computed on list price before discount,margin_pct = (net - cost) / net = 0.2575
+GT-000066,orders,ORD-2026-007796,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4129 computed on list price before discount,margin_pct = (net - cost) / net = 0.3478
+GT-000067,orders,ORD-2026-007835,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4374 computed on list price before discount,margin_pct = (net - cost) / net = 0.3748
+GT-000068,orders,ORD-2026-007858,MARGIN_BEFORE_DISCOUNT,margin_pct 0.2917 computed on list price before discount,margin_pct = (net - cost) / net = 0.0917
+GT-000069,orders,ORD-2026-007870,MARGIN_BEFORE_DISCOUNT,margin_pct 0.5368 computed on list price before discount,margin_pct = (net - cost) / net = 0.4223
+GT-000070,orders,ORD-2026-007936,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4550 computed on list price before discount,margin_pct = (net - cost) / net = 0.0762
+GT-000071,orders,ORD-2026-007958,MARGIN_BEFORE_DISCOUNT,margin_pct 0.2407 computed on list price before discount,margin_pct = (net - cost) / net = 0.1563
+GT-000072,orders,ORD-2026-007987,MARGIN_BEFORE_DISCOUNT,margin_pct 0.5273 computed on list price before discount,margin_pct = (net - cost) / net = 0.4750
+GT-000073,orders,ORD-2026-008047,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4758 computed on list price before discount,margin_pct = (net - cost) / net = 0.3229
+GT-000074,orders,ORD-2026-008132,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4471 computed on list price before discount,margin_pct = (net - cost) / net = 0.3858
+GT-000075,orders,ORD-2026-008324,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4325 computed on list price before discount,margin_pct = (net - cost) / net = 0.2117
+GT-000076,orders,ORD-2026-008439,MARGIN_BEFORE_DISCOUNT,margin_pct 0.5395 computed on list price before discount,margin_pct = (net - cost) / net = 0.3232
+GT-000077,orders,ORD-2026-008468,MARGIN_BEFORE_DISCOUNT,margin_pct 0.3528 computed on list price before discount,margin_pct = (net - cost) / net = 0.2810
+GT-000078,orders,ORD-2026-008484,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4923 computed on list price before discount,margin_pct = (net - cost) / net = 0.0776
+GT-000079,orders,ORD-2026-008566,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4012 computed on list price before discount,margin_pct = (net - cost) / net = 0.2785
+GT-000080,orders,ORD-2026-008592,MARGIN_BEFORE_DISCOUNT,margin_pct 0.5618 computed on list price before discount,margin_pct = (net - cost) / net = 0.2582
+GT-000081,orders,ORD-2026-008601,MARGIN_BEFORE_DISCOUNT,margin_pct 0.5123 computed on list price before discount,margin_pct = (net - cost) / net = 0.1865
+GT-000082,orders,ORD-2026-008602,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4163 computed on list price before discount,margin_pct = (net - cost) / net = 0.1891
+GT-000083,orders,ORD-2026-008715,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4579 computed on list price before discount,margin_pct = (net - cost) / net = 0.1527
+GT-000084,orders,ORD-2026-008732,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4568 computed on list price before discount,margin_pct = (net - cost) / net = 0.2857
+GT-000085,orders,ORD-2026-008781,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4163 computed on list price before discount,margin_pct = (net - cost) / net = 0.1891
+GT-000086,orders,ORD-2026-008982,MARGIN_BEFORE_DISCOUNT,margin_pct 0.5218 computed on list price before discount,margin_pct = (net - cost) / net = 0.3367
+GT-000087,orders,ORD-2026-009037,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4159 computed on list price before discount,margin_pct = (net - cost) / net = 0.2513
+GT-000088,orders,ORD-2026-009198,MARGIN_BEFORE_DISCOUNT,margin_pct 0.5556 computed on list price before discount,margin_pct = (net - cost) / net = 0.2575
+GT-000089,orders,ORD-2026-009244,MARGIN_BEFORE_DISCOUNT,margin_pct 0.3468 computed on list price before discount,margin_pct = (net - cost) / net = 0.2035
+GT-000090,orders,ORD-2026-009477,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4544 computed on list price before discount,margin_pct = (net - cost) / net = 0.0910
+GT-000091,orders,ORD-2026-009721,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4702 computed on list price before discount,margin_pct = (net - cost) / net = 0.1168
+GT-000092,orders,ORD-2026-009892,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4331 computed on list price before discount,margin_pct = (net - cost) / net = 0.3178
+GT-000093,orders,ORD-2026-009924,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4702 computed on list price before discount,margin_pct = (net - cost) / net = 0.1168
+GT-000094,orders,ORD-2026-009933,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4832 computed on list price before discount,margin_pct = (net - cost) / net = 0.1787
+GT-000095,orders,ORD-2026-009960,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4380 computed on list price before discount,margin_pct = (net - cost) / net = 0.2699
+GT-000096,orders,ORD-2026-010201,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4759 computed on list price before discount,margin_pct = (net - cost) / net = 0.1270
+GT-000097,orders,ORD-2026-010244,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4889 computed on list price before discount,margin_pct = (net - cost) / net = 0.0703
+GT-000098,orders,ORD-2026-010301,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4460 computed on list price before discount,margin_pct = (net - cost) / net = 0.1346
+GT-000099,orders,ORD-2026-010346,MARGIN_BEFORE_DISCOUNT,margin_pct 0.3406 computed on list price before discount,margin_pct = (net - cost) / net = 0.1548
+GT-000100,orders,ORD-2026-010360,MARGIN_BEFORE_DISCOUNT,margin_pct 0.5118 computed on list price before discount,margin_pct = (net - cost) / net = 0.1127
+GT-000101,orders,ORD-2026-010500,MARGIN_BEFORE_DISCOUNT,margin_pct 0.4482 computed on list price before discount,margin_pct = (net - cost) / net = 0.2836
+GT-000102,orders,ORD-2026-010503,MARGIN_BEFORE_DISCOUNT,margin_pct 0.2931 computed on list price before discount,margin_pct = (net - cost) / net = 0.0833
+GT-000103,price_decision,DEC-2026-000139,PRICE_BELOW_FLOOR,final_price 5.73 below price_floor 6.40; guardrail bypassed,final_price >= price_floor (guardrail FLOOR)
+GT-000104,price_decision,DEC-2026-000564,PRICE_BELOW_FLOOR,final_price 3.20 below price_floor 3.62; guardrail bypassed,final_price >= price_floor (guardrail FLOOR)
+GT-000105,price_decision,DEC-2026-000718,PRICE_BELOW_FLOOR,final_price 4.01 below price_floor 4.15; guardrail bypassed,final_price >= price_floor (guardrail FLOOR)
+GT-000106,price_decision,DEC-2026-000808,PRICE_BELOW_FLOOR,final_price 25.11 below price_floor 26.09; guardrail bypassed,final_price >= price_floor (guardrail FLOOR)
+GT-000107,price_decision,DEC-2026-001296,PRICE_BELOW_FLOOR,final_price 2.93 below price_floor 3.20; guardrail bypassed,final_price >= price_floor (guardrail FLOOR)
+GT-000108,price_decision,DEC-2026-001486,PRICE_BELOW_FLOOR,final_price 1.42 below price_floor 1.52; guardrail bypassed,final_price >= price_floor (guardrail FLOOR)
+GT-000109,price_decision,DEC-2026-001529,PRICE_BELOW_FLOOR,final_price 4.14 below price_floor 4.68; guardrail bypassed,final_price >= price_floor (guardrail FLOOR)
+GT-000110,price_decision,DEC-2026-002057,PRICE_BELOW_FLOOR,final_price 8.13 below price_floor 9.14; guardrail bypassed,final_price >= price_floor (guardrail FLOOR)
+GT-000111,price_decision,DEC-2026-002121,PRICE_BELOW_FLOOR,final_price 4.51 below price_floor 5.18; guardrail bypassed,final_price >= price_floor (guardrail FLOOR)
+GT-000112,price_history,PRC-SKU-000028-20260127,PRICE_CHANGE_LACKS_REASON,manual price override without decision_id or change_reason,every price change references a decision_id and change_reason
+GT-000113,price_history,PRC-SKU-000036-20260202,PRICE_CHANGE_LACKS_REASON,manual price override without decision_id or change_reason,every price change references a decision_id and change_reason
+GT-000114,price_history,PRC-SKU-000299-20260208,PRICE_CHANGE_LACKS_REASON,manual price override without decision_id or change_reason,every price change references a decision_id and change_reason
+GT-000115,orders,ORD-2026-001327,PROMOTION_STACK_VIOLATION,prohibited stack COUPON+COUPON applied,apply at most one promo per exclusive group (best discount wins)
+GT-000116,orders,ORD-2026-001865,PROMOTION_STACK_VIOLATION,prohibited stack COUPON+COUPON applied,apply at most one promo per exclusive group (best discount wins)
+GT-000117,orders,ORD-2026-002823,PROMOTION_STACK_VIOLATION,prohibited stack CLEARANCE+COUPON applied,apply at most one promo per exclusive group (best discount wins)
+GT-000118,orders,ORD-2026-003525,PROMOTION_STACK_VIOLATION,prohibited stack CLEARANCE+COUPON applied,apply at most one promo per exclusive group (best discount wins)
+GT-000119,orders,ORD-2026-003570,PROMOTION_STACK_VIOLATION,prohibited stack CLEARANCE+COUPON applied,apply at most one promo per exclusive group (best discount wins)
+GT-000120,orders,ORD-2026-003932,PROMOTION_STACK_VIOLATION,prohibited stack COUPON+COUPON applied,apply at most one promo per exclusive group (best discount wins)
+GT-000121,orders,ORD-2026-003951,PROMOTION_STACK_VIOLATION,prohibited stack COUPON+COUPON applied,apply at most one promo per exclusive group (best discount wins)
+GT-000122,orders,ORD-2026-003979,PROMOTION_STACK_VIOLATION,prohibited stack CLEARANCE+COUPON applied,apply at most one promo per exclusive group (best discount wins)
+GT-000123,orders,ORD-2026-004031,PROMOTION_STACK_VIOLATION,prohibited stack COUPON+COUPON applied,apply at most one promo per exclusive group (best discount wins)
+GT-000124,orders,ORD-2026-004102,PROMOTION_STACK_VIOLATION,prohibited stack CLEARANCE+COUPON applied,apply at most one promo per exclusive group (best discount wins)
+GT-000125,orders,ORD-2026-004536,PROMOTION_STACK_VIOLATION,prohibited stack COUPON+COUPON applied,apply at most one promo per exclusive group (best discount wins)
+GT-000126,orders,ORD-2026-004597,PROMOTION_STACK_VIOLATION,prohibited stack COUPON+COUPON applied,apply at most one promo per exclusive group (best discount wins)
+GT-000127,orders,ORD-2026-004627,PROMOTION_STACK_VIOLATION,prohibited stack COUPON+COUPON applied,apply at most one promo per exclusive group (best discount wins)
+GT-000128,orders,ORD-2026-004632,PROMOTION_STACK_VIOLATION,prohibited stack CLEARANCE+COUPON applied,apply at most one promo per exclusive group (best discount wins)
+GT-000129,orders,ORD-2026-004634,PROMOTION_STACK_VIOLATION,prohibited stack CLEARANCE+COUPON applied,apply at most one promo per exclusive group (best discount wins)
+GT-000130,orders,ORD-2026-004702,PROMOTION_STACK_VIOLATION,prohibited stack CLEARANCE+COUPON applied,apply at most one promo per exclusive group (best discount wins)
+GT-000131,orders,ORD-2026-004706,PROMOTION_STACK_VIOLATION,prohibited stack COUPON+COUPON applied,apply at most one promo per exclusive group (best discount wins)
+GT-000132,orders,ORD-2026-004715,PROMOTION_STACK_VIOLATION,prohibited stack COUPON+COUPON applied,apply at most one promo per exclusive group (best discount wins)
+GT-000133,orders,ORD-2026-004902,PROMOTION_STACK_VIOLATION,prohibited stack CLEARANCE+COUPON applied,apply at most one promo per exclusive group (best discount wins)
+GT-000134,orders,ORD-2026-004953,PROMOTION_STACK_VIOLATION,prohibited stack CLEARANCE+COUPON applied,apply at most one promo per exclusive group (best discount wins)
+GT-000135,orders,ORD-2026-005033,PROMOTION_STACK_VIOLATION,prohibited stack CLEARANCE+COUPON applied,apply at most one promo per exclusive group (best discount wins)
+GT-000136,orders,ORD-2026-005204,PROMOTION_STACK_VIOLATION,prohibited stack CLEARANCE+COUPON applied,apply at most one promo per exclusive group (best discount wins)
+GT-000137,orders,ORD-2026-005514,PROMOTION_STACK_VIOLATION,prohibited stack CLEARANCE+COUPON applied,apply at most one promo per exclusive group (best discount wins)
+GT-000138,orders,ORD-2026-005943,PROMOTION_STACK_VIOLATION,prohibited stack CLEARANCE+COUPON applied,apply at most one promo per exclusive group (best discount wins)
+GT-000139,orders,ORD-2026-006187,PROMOTION_STACK_VIOLATION,prohibited stack COUPON+COUPON applied,apply at most one promo per exclusive group (best discount wins)
+GT-000140,orders,ORD-2026-006618,PROMOTION_STACK_VIOLATION,prohibited stack COUPON+COUPON applied,apply at most one promo per exclusive group (best discount wins)
+GT-000141,orders,ORD-2026-007430,PROMOTION_STACK_VIOLATION,prohibited stack CLEARANCE+COUPON applied,apply at most one promo per exclusive group (best discount wins)
+GT-000142,orders,ORD-2026-007868,PROMOTION_STACK_VIOLATION,prohibited stack CLEARANCE+COUPON applied,apply at most one promo per exclusive group (best discount wins)
+GT-000143,orders,ORD-2026-008068,PROMOTION_STACK_VIOLATION,prohibited stack CLEARANCE+COUPON applied,apply at most one promo per exclusive group (best discount wins)
+GT-000144,orders,ORD-2026-008148,PROMOTION_STACK_VIOLATION,prohibited stack CLEARANCE+COUPON applied,apply at most one promo per exclusive group (best discount wins)
+GT-000145,orders,ORD-2026-008256,PROMOTION_STACK_VIOLATION,prohibited stack CLEARANCE+COUPON applied,apply at most one promo per exclusive group (best discount wins)
+GT-000146,orders,ORD-2026-008613,PROMOTION_STACK_VIOLATION,prohibited stack COUPON+COUPON applied,apply at most one promo per exclusive group (best discount wins)
+GT-000147,orders,ORD-2026-009034,PROMOTION_STACK_VIOLATION,prohibited stack CLEARANCE+COUPON applied,apply at most one promo per exclusive group (best discount wins)
+GT-000148,orders,ORD-2026-009092,PROMOTION_STACK_VIOLATION,prohibited stack CLEARANCE+COUPON applied,apply at most one promo per exclusive group (best discount wins)
+GT-000149,orders,ORD-2026-009652,PROMOTION_STACK_VIOLATION,prohibited stack CLEARANCE+COUPON applied,apply at most one promo per exclusive group (best discount wins)
+GT-000150,price_decision,DEC-2026-000038,STALE_OBSERVATION_AS_CURRENT,observation OBS-2026-000490 aged 107.5h (> 96h) used as current,ignore stale observation; exception STALE_COMPETITOR_IGNORED
+GT-000151,price_decision,DEC-2026-000080,STALE_OBSERVATION_AS_CURRENT,observation OBS-2026-000665 aged 185.0h (> 96h) used as current,ignore stale observation; exception STALE_COMPETITOR_IGNORED
+GT-000152,price_decision,DEC-2026-000104,STALE_OBSERVATION_AS_CURRENT,observation OBS-2026-000137 aged 149.9h (> 96h) used as current,ignore stale observation; exception STALE_COMPETITOR_IGNORED
+GT-000153,price_decision,DEC-2026-000466,STALE_OBSERVATION_AS_CURRENT,observation OBS-2026-001687 aged 109.8h (> 96h) used as current,ignore stale observation; exception STALE_COMPETITOR_IGNORED
+GT-000154,price_decision,DEC-2026-000522,STALE_OBSERVATION_AS_CURRENT,observation OBS-2026-001951 aged 165.5h (> 96h) used as current,ignore stale observation; exception STALE_COMPETITOR_IGNORED
+GT-000155,price_decision,DEC-2026-000651,STALE_OBSERVATION_AS_CURRENT,observation OBS-2026-002700 aged 128.8h (> 96h) used as current,ignore stale observation; exception STALE_COMPETITOR_IGNORED
+GT-000156,price_decision,DEC-2026-000663,STALE_OBSERVATION_AS_CURRENT,observation OBS-2026-002531 aged 150.8h (> 96h) used as current,ignore stale observation; exception STALE_COMPETITOR_IGNORED
+GT-000157,price_decision,DEC-2026-000687,STALE_OBSERVATION_AS_CURRENT,observation OBS-2026-002844 aged 103.0h (> 96h) used as current,ignore stale observation; exception STALE_COMPETITOR_IGNORED
+GT-000158,price_decision,DEC-2026-000798,STALE_OBSERVATION_AS_CURRENT,observation OBS-2026-002543 aged 151.1h (> 96h) used as current,ignore stale observation; exception STALE_COMPETITOR_IGNORED
+GT-000159,price_decision,DEC-2026-001042,STALE_OBSERVATION_AS_CURRENT,observation OBS-2026-003892 aged 126.4h (> 96h) used as current,ignore stale observation; exception STALE_COMPETITOR_IGNORED
+GT-000160,price_decision,DEC-2026-001231,STALE_OBSERVATION_AS_CURRENT,observation OBS-2026-004442 aged 124.4h (> 96h) used as current,ignore stale observation; exception STALE_COMPETITOR_IGNORED
+GT-000161,price_decision,DEC-2026-001461,STALE_OBSERVATION_AS_CURRENT,observation OBS-2026-005583 aged 346.5h (> 96h) used as current,ignore stale observation; exception STALE_COMPETITOR_IGNORED
+GT-000162,price_decision,DEC-2026-001509,STALE_OBSERVATION_AS_CURRENT,observation OBS-2026-004961 aged 153.5h (> 96h) used as current,ignore stale observation; exception STALE_COMPETITOR_IGNORED
+GT-000163,price_decision,DEC-2026-002152,STALE_OBSERVATION_AS_CURRENT,observation OBS-2026-008921 aged 96.2h (> 96h) used as current,ignore stale observation; exception STALE_COMPETITOR_IGNORED
+GT-000164,price_decision,DEC-2026-002201,STALE_OBSERVATION_AS_CURRENT,observation OBS-2026-008838 aged 99.0h (> 96h) used as current,ignore stale observation; exception STALE_COMPETITOR_IGNORED
+GT-000165,price_decision,DEC-2026-002392,STALE_OBSERVATION_AS_CURRENT,observation OBS-2026-008815 aged 112.6h (> 96h) used as current,ignore stale observation; exception STALE_COMPETITOR_IGNORED
+GT-000166,price_decision,DEC-2026-002406,STALE_OBSERVATION_AS_CURRENT,observation OBS-2026-007805 aged 258.2h (> 96h) used as current,ignore stale observation; exception STALE_COMPETITOR_IGNORED
+GT-000167,price_decision,DEC-2026-002433,STALE_OBSERVATION_AS_CURRENT,observation OBS-2026-008655 aged 120.7h (> 96h) used as current,ignore stale observation; exception STALE_COMPETITOR_IGNORED
+GT-000168,price_decision,DEC-2026-002438,STALE_OBSERVATION_AS_CURRENT,observation OBS-2026-008657 aged 125.1h (> 96h) used as current,ignore stale observation; exception STALE_COMPETITOR_IGNORED

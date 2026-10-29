@@ -1,0 +1,28 @@
+{
+  "promo_sku_day_rows": 1547572,
+  "skus": 5000,
+  "days": 180,
+  "promos": 2000,
+  "seed": 20261022,
+  "seconds": 6.3,
+  "promo_resolution": {
+    "total": 1547572,
+    "fail_stock": 115926,
+    "fail_margin": 324597,
+    "coupon_conflicts": 40739,
+    "coupon_dropped_stack": 41204
+  },
+  "groups": {
+    "SITEWIDE": 24,
+    "CATEGORY": 500,
+    "COUPON": 800,
+    "CLEARANCE": 676
+  },
+  "anomalies": {
+    "MARGIN_BEFORE_DISCOUNT": 5435,
+    "PROMOTION_STACK_VIOLATION": 1632,
+    "STALE_OBSERVATION_AS_CURRENT": 1328,
+    "PRICE_BELOW_FLOOR": 513,
+    "PRICE_CHANGE_LACKS_REASON": 303
+  }
+}
